@@ -1,0 +1,19 @@
+{
+  "id": "c4a45eed67ee",
+  "slug": "2026-03-introducing-sonnet-46",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/claude-sonnet-4-6",
+  "fecha": "2026-03-11",
+  "titulo": "Introducing Sonnet 4.6",
+  "resumen": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.",
+  "contenido": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design.\n\n[Leer artículo completo](https://www.anthropic.com/news/claude-sonnet-4-6)",
+  "categoria": "Herramientas",
+  "tags": [
+    "herramientas",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay",
+  "ingested_at": "2026-03-30T23:06:10.042Z"
+}
