@@ -1,0 +1,20 @@
+{
+  "id": "428f6ba6fc7b",
+  "slug": "2026-03-anthropic-economic-index-report-economic-primitives",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+  "fecha": "2026-03-23",
+  "titulo": "Anthropic Economic Index report: Economic primitives",
+  "resumen": "This report introduces new metrics of AI usage to provide a rich portrait of interactions with Claude in November 2025, just prior to the release of Opus 4.5.",
+  "contenido": "This report introduces new metrics of AI usage to provide a rich portrait of interactions with Claude in November 2025, just prior to the release of Opus 4.5.\n\n[Leer artículo completo](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)",
+  "categoria": "Investigación",
+  "tags": [
+    "investigación",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus",
+  "ingested_at": "2026-03-30T23:06:16.089Z"
+}
