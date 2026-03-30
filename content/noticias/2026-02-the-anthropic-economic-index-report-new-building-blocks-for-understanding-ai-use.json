@@ -1,0 +1,20 @@
+{
+  "id": "baf1413b738d",
+  "slug": "2026-02-the-anthropic-economic-index-report-new-building-blocks-for-understanding-ai-use",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/economic-index-primitives",
+  "fecha": "2026-02-03",
+  "titulo": "The Anthropic Economic Index report: New building blocks for understanding AI use",
+  "resumen": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+  "contenido": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.\n\n[Leer artículo completo](https://www.anthropic.com/research/economic-index-primitives)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=sky",
+  "ingested_at": "2026-03-30T23:06:18.236Z"
+}
