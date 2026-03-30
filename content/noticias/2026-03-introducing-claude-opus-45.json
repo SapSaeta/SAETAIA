@@ -1,0 +1,19 @@
+{
+  "id": "57f01cae307e",
+  "slug": "2026-03-introducing-claude-opus-45",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/claude-opus-4-5",
+  "fecha": "2026-03-13",
+  "titulo": "Introducing Claude Opus 4.5",
+  "resumen": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+  "contenido": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.\n\n[Leer artículo completo](https://www.anthropic.com/news/claude-opus-4-5)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&amp;backgroundColor=clay",
+  "ingested_at": "2026-03-30T23:06:09.110Z"
+}
