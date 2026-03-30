@@ -1,0 +1,20 @@
+{
+  "id": "047a55d9a381",
+  "slug": "2026-02-anthropic-education-report-the-ai-fluency-index",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/AI-fluency-index",
+  "fecha": "2026-02-23",
+  "titulo": "Anthropic Education Report: The AI Fluency Index",
+  "resumen": "Anthropic&#x27;s AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.",
+  "contenido": "Anthropic&#x27;s AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.\n\n[Leer artículo completo](https://www.anthropic.com/research/AI-fluency-index)",
+  "categoria": "Investigación",
+  "tags": [
+    "investigación",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampPaper&amp;backgroundColor=sky",
+  "ingested_at": "2026-03-30T23:06:15.596Z"
+}
