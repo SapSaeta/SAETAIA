@@ -1,0 +1,20 @@
+{
+  "id": "9d1b9dba088d",
+  "slug": "2026-02-an-update-on-our-model-deprecation-commitments-for-claude-opus-3",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/deprecation-updates-opus-3",
+  "fecha": "2026-02-25",
+  "titulo": "An update on our model deprecation commitments for Claude Opus 3",
+  "resumen": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+  "contenido": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.\n\n[Leer artículo completo](https://www.anthropic.com/research/deprecation-updates-opus-3)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Box&amp;backgroundColor=olive",
+  "ingested_at": "2026-03-30T23:06:17.078Z"
+}
