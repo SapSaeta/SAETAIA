@@ -1,0 +1,19 @@
+{
+  "id": "0d40f97ea619",
+  "slug": "2026-02-responsible-scaling-policy-version-30",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+  "fecha": "2026-02-25",
+  "titulo": "Responsible Scaling Policy Version 3.0",
+  "resumen": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI",
+  "contenido": "An update to Anthropic&#x27;s policy to mitigate catastrophic risks from AI\n\n[Leer artículo completo](https://www.anthropic.com/news/responsible-scaling-policy-v3)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+  "ingested_at": "2026-03-30T23:06:12.162Z"
+}
