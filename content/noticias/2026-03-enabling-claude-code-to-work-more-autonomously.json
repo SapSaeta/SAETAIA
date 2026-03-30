@@ -1,0 +1,19 @@
+{
+  "id": "270c90d14572",
+  "slug": "2026-03-enabling-claude-code-to-work-more-autonomously",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+  "fecha": "2026-03-02",
+  "titulo": "Enabling Claude Code to work more autonomously",
+  "resumen": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.",
+  "contenido": "Introducing Claude Code upgrades: native VS Code extension, terminal UX updates, and checkpoints for autonomous development. Handle complex tasks with confidence.\n\n[Leer artículo completo](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously)",
+  "categoria": "Herramientas",
+  "tags": [
+    "herramientas",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=clay",
+  "ingested_at": "2026-03-30T23:06:11.172Z"
+}
