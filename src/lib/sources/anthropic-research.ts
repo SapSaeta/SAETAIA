@@ -12,8 +12,9 @@ import {
 
 const SOURCE_ID = 'anthropic-research' as const
 const SITEMAP_ROOT = 'https://www.anthropic.com/sitemap.xml'
-const LOOKBACK_DAYS = 60   // Research papers salen con menos frecuencia
-const MAX_ARTICLES = 15
+const LOOKBACK_DAYS = 60
+const MAX_ARTICLES = 3
+const ARTICLE_TIMEOUT_MS = 2_500
 
 async function resolveSitemap(url: string, depth = 0): Promise<Array<{ loc: string; lastmod?: string }>> {
   if (depth > 2) return []
@@ -40,7 +41,7 @@ async function resolveSitemap(url: string, depth = 0): Promise<Array<{ loc: stri
 async function fetchArticleMeta(url: string): Promise<Pick<RawItem, 'title' | 'date' | 'summary' | 'imagen'>> {
   const res = await fetch(url, {
     headers: FETCH_HEADERS,
-    signal: AbortSignal.timeout(12_000),
+    signal: AbortSignal.timeout(ARTICLE_TIMEOUT_MS),
   })
   if (!res.ok) throw new Error(`Article ${url} → HTTP ${res.status}`)
   const html = await res.text()
@@ -83,12 +84,12 @@ export const anthropicResearchSource: Source = {
         return true
       })
 
-      const items: RawItem[] = []
-      for (const { loc, lastmod } of candidates.slice(0, MAX_ARTICLES)) {
-        try {
+      const subset = candidates.slice(0, MAX_ARTICLES)
+      const results = await Promise.allSettled(
+        subset.map(async ({ loc, lastmod }) => {
           const meta = await fetchArticleMeta(loc)
-          if (!meta.title) continue
-          items.push({
+          if (!meta.title) return null
+          return {
             source: SOURCE_ID,
             url: loc,
             title: meta.title,
@@ -96,9 +97,12 @@ export const anthropicResearchSource: Source = {
             summary: meta.summary,
             imagen: meta.imagen,
             tags: ['research', 'paper'],
-          })
-        } catch { /* non-fatal */ }
-      }
+          } satisfies RawItem
+        })
+      )
+      const items: RawItem[] = results
+        .filter((r) => r.status === 'fulfilled' && r.value !== null)
+        .map((r) => (r as PromiseFulfilledResult<RawItem>).value)
 
       return { source: SOURCE_ID, items, fetched_at }
     } catch (error) {

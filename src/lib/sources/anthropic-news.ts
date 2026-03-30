@@ -13,7 +13,8 @@ import {
 const SOURCE_ID = 'anthropic-news' as const
 const SITEMAP_ROOT = 'https://www.anthropic.com/sitemap.xml'
 const LOOKBACK_DAYS = 35
-const MAX_ARTICLES = 20
+const MAX_ARTICLES = 4
+const ARTICLE_TIMEOUT_MS = 2_500
 
 /** Resuelve el sitemap raíz: si es un índice, encuentra el de noticias */
 async function resolveSitemap(url: string, depth = 0): Promise<Array<{ loc: string; lastmod?: string }>> {
@@ -47,7 +48,7 @@ async function resolveSitemap(url: string, depth = 0): Promise<Array<{ loc: stri
 async function fetchArticleMeta(url: string): Promise<Pick<RawItem, 'title' | 'date' | 'summary' | 'imagen'>> {
   const res = await fetch(url, {
     headers: FETCH_HEADERS,
-    signal: AbortSignal.timeout(12_000),
+    signal: AbortSignal.timeout(ARTICLE_TIMEOUT_MS),
   })
   if (!res.ok) throw new Error(`Article ${url} → HTTP ${res.status}`)
   const html = await res.text()
@@ -93,21 +94,24 @@ export const anthropicNewsSource: Source = {
         return true
       })
 
-      const items: RawItem[] = []
-      for (const { loc, lastmod } of candidates.slice(0, MAX_ARTICLES)) {
-        try {
+      const subset = candidates.slice(0, MAX_ARTICLES)
+      const results = await Promise.allSettled(
+        subset.map(async ({ loc, lastmod }) => {
           const meta = await fetchArticleMeta(loc)
-          if (!meta.title) continue
-          items.push({
+          if (!meta.title) return null
+          return {
             source: SOURCE_ID,
             url: loc,
             title: meta.title,
             date: meta.date || lastmod?.split('T')[0] || new Date().toISOString().split('T')[0],
             summary: meta.summary,
             imagen: meta.imagen,
-          })
-        } catch { /* individual article failure is non-fatal */ }
-      }
+          } satisfies RawItem
+        })
+      )
+      const items: RawItem[] = results
+        .filter((r) => r.status === 'fulfilled' && r.value !== null)
+        .map((r) => (r as PromiseFulfilledResult<RawItem>).value)
 
       return { source: SOURCE_ID, items, fetched_at }
     } catch (error) {
