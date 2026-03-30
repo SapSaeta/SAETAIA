@@ -1,0 +1,20 @@
+{
+  "id": "77bcdf2c55ab",
+  "slug": "2026-03-introducing-our-science-blog",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/introducing-anthropic-science",
+  "fecha": "2026-03-25",
+  "titulo": "Introducing our Science Blog",
+  "resumen": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+  "contenido": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.\n\n[Leer artículo completo](https://www.anthropic.com/research/introducing-anthropic-science)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=olive",
+  "ingested_at": "2026-03-30T23:06:19.235Z"
+}
