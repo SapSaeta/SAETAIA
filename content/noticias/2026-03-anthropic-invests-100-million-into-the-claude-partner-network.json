@@ -1,0 +1,19 @@
+{
+  "id": "9d6a48ccf42b",
+  "slug": "2026-03-anthropic-invests-100-million-into-the-claude-partner-network",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/claude-partner-network",
+  "fecha": "2026-03-12",
+  "titulo": "Anthropic invests $100 million into the Claude Partner Network",
+  "resumen": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
+  "contenido": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.\n\n[Leer artículo completo](https://www.anthropic.com/news/claude-partner-network)",
+  "categoria": "LLMs",
+  "tags": [
+    "llms",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+  "ingested_at": "2026-03-30T23:06:09.602Z"
+}
