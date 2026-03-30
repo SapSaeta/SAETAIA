@@ -1,0 +1,19 @@
+{
+  "id": "d3d38ded1c60",
+  "slug": "2026-02-detecting-and-preventing-distillation-attacks",
+  "status": "draft",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+  "fecha": "2026-02-23",
+  "titulo": "Detecting and preventing distillation attacks",
+  "resumen": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+  "contenido": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.\n\n[Leer artículo completo](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)",
+  "categoria": "Seguridad",
+  "tags": [
+    "seguridad",
+    "anthropic",
+    "news"
+  ],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Lock&amp;backgroundColor=fig",
+  "ingested_at": "2026-03-30T23:06:10.629Z"
+}
