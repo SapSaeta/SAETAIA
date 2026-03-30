@@ -109,7 +109,7 @@ export const anthropicNewsSource: Source = {
                 date: lastmod?.split('T')[0] ?? new Date().toISOString().split('T')[0],
               } satisfies RawItem
             })
-            .filter((item): item is RawItem => item !== null)
+            .filter((item): item is NonNullable<typeof item> => item !== null) as RawItem[]
         : await (async () => {
             const results = await Promise.allSettled(
               subset.map(async ({ loc, lastmod }) => {

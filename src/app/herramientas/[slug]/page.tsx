@@ -18,13 +18,23 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const herramienta = getHerramientaBySlug(params.slug)
   if (!herramienta) return {}
 
+  const canonicalUrl = `https://saetaia.com/herramientas/${herramienta.slug}`
+
   return {
-    title: `${herramienta.nombre} | SaetaIA`,
+    title: herramienta.nombre,
     description: herramienta.descripcion,
+    alternates: { canonical: canonicalUrl },
     openGraph: {
       title: herramienta.nombre,
       description: herramienta.descripcion,
-      type: 'article',
+      url: canonicalUrl,
+      type: 'website',
+      images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: herramienta.nombre }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: herramienta.nombre,
+      description: herramienta.descripcion,
     },
   }
 }

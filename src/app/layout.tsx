@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       'Las últimas noticias sobre modelos de lenguaje, herramientas y avances en inteligencia artificial.',
     images: [
       {
-        url: '/images/og-default.png',
+        url: '/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'SaetaIA',
@@ -39,6 +39,15 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  },
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
   },
 }
 

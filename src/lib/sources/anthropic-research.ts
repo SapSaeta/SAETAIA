@@ -100,7 +100,7 @@ export const anthropicResearchSource: Source = {
                 tags: ['research', 'paper'],
               } satisfies RawItem
             })
-            .filter((item): item is RawItem => item !== null)
+            .filter((item): item is NonNullable<typeof item> => item !== null) as RawItem[]
         : await (async () => {
             const results = await Promise.allSettled(
               subset.map(async ({ loc, lastmod }) => {

@@ -4,9 +4,25 @@ import HerramientaGrid from '@/components/herramientas/HerramientaGrid'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Herramientas | SaetaIA',
+  title: 'Herramientas de IA',
   description:
     'Herramientas prácticas de Anthropic para desarrolladores: Claude Code Skills, MCP, Agent SDK, Computer Use y más.',
+  alternates: {
+    canonical: 'https://saetaia.com/herramientas',
+  },
+  openGraph: {
+    title: 'Herramientas de IA | SaetaIA',
+    description:
+      'Herramientas prácticas de Anthropic para desarrolladores: Claude Code Skills, MCP, Agent SDK, Computer Use y más.',
+    url: 'https://saetaia.com/herramientas',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Herramientas de IA | SaetaIA',
+    description:
+      'Herramientas prácticas de Anthropic para desarrolladores: Claude Code Skills, MCP, Agent SDK, Computer Use y más.',
+  },
 }
 
 export default function HerramientasPage() {

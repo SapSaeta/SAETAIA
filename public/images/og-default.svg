@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#09090b"/>
+  <!-- Grid pattern -->
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.15"/>
+  <!-- Gradient orb -->
+  <ellipse cx="600" cy="315" rx="400" ry="300" fill="url(#orb)" opacity="0.3"/>
+  <!-- Logo text -->
+  <text x="600" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="96" font-weight="700" fill="white" text-anchor="middle" letter-spacing="-2">SaetaIA</text>
+  <!-- Tagline -->
+  <text x="600" y="350" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#a1a1aa" text-anchor="middle">Noticias de Inteligencia Artificial</text>
+  <!-- URL -->
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#52525b" text-anchor="middle">saetaia.com</text>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#09090b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
