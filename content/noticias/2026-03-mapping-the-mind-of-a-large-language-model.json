@@ -1,0 +1,20 @@
+{
+  "id": "5019b9256d83",
+  "slug": "2026-03-mapping-the-mind-of-a-large-language-model",
+  "status": "draft",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/mapping-mind-language-model",
+  "fecha": "2026-03-02",
+  "titulo": "Mapping the Mind of a Large Language Model",
+  "resumen": "We have identified how millions of concepts are represented inside Claude Sonnet, one of our deployed large language models. This is the first ever detailed look inside a modern, production-grade large language model.",
+  "contenido": "We have identified how millions of concepts are represented inside Claude Sonnet, one of our deployed large language models. This is the first ever detailed look inside a modern, production-grade large language model.\n\n[Leer artículo completo](https://www.anthropic.com/research/mapping-mind-language-model)",
+  "categoria": "Investigación",
+  "tags": [
+    "investigación",
+    "anthropic",
+    "research",
+    "paper"
+  ],
+  "imagen": "https://cdn.sanity.io/images/4zrzovbb/website/7dd6783d4407d0b155766918579d0d848f67726b-1200x630.png",
+  "ingested_at": "2026-03-30T23:06:20.960Z"
+}
