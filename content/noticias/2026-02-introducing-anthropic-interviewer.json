@@ -1,7 +1,7 @@
 {
   "id": "e35f1b9db0c2",
   "slug": "2026-02-introducing-anthropic-interviewer",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-research",
   "url_referencia": "https://www.anthropic.com/research/anthropic-interviewer",
   "fecha": "2026-02-19",
@@ -16,5 +16,6 @@
     "paper"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&amp;backgroundColor=sky",
-  "ingested_at": "2026-03-30T23:06:16.575Z"
+  "ingested_at": "2026-03-30T23:06:16.575Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

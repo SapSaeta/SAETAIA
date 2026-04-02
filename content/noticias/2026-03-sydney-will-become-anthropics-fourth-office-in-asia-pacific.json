@@ -1,7 +1,7 @@
 {
   "id": "2c7edba2551d",
   "slug": "2026-03-sydney-will-become-anthropics-fourth-office-in-asia-pacific",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
   "fecha": "2026-03-11",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
-  "ingested_at": "2026-03-30T23:06:13.550Z"
+  "ingested_at": "2026-03-30T23:06:13.550Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

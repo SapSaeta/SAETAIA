@@ -1,7 +1,7 @@
 {
   "id": "d3ae286e89da",
   "slug": "2026-03-where-things-stand-with-the-department-of-war",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/where-stand-department-war",
   "fecha": "2026-03-06",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
-  "ingested_at": "2026-03-30T23:06:14.553Z"
+  "ingested_at": "2026-03-30T23:06:14.553Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

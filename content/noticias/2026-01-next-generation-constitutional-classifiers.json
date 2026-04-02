@@ -1,0 +1,16 @@
+{
+  "id": "41ce725530ad",
+  "slug": "2026-01-next-generation-constitutional-classifiers",
+  "status": "published",
+  "published_at": "2026-04-03T00:00:00.000Z",
+  "source": "anthropic-research",
+  "url_referencia": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+  "fecha": "2026-01-09",
+  "titulo": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+  "resumen": "Anthropic presenta Constitutional Classifiers++, un sistema de seguridad mejorado que protege a Claude de ataques de jailbreak reduciendo costes computacionales. La nueva arquitectura de dos etapas usa sondas internas y métodos ensemble para lograr la tasa de ataques exitosos más baja jamás probada.",
+  "contenido": "Anthropic introduces Constitutional Classifiers++, an improved safety system that protects Claude from jailbreak attacks while reducing computational costs. The new two-stage architecture uses internal probes and ensemble methods to achieve \"the lowest successful attack rate of any approach we've ever tested\" with minimal performance impact on legitimate queries.\n\n[Leer artículo completo](https://www.anthropic.com/research/next-generation-constitutional-classifiers)",
+  "categoria": "Seguridad",
+  "tags": ["seguridad", "anthropic", "research", "paper", "jailbreak", "clasificadores"],
+  "imagen": "https://www-cdn.anthropic.com/images/4zrzovbb/website/43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg",
+  "ingested_at": "2026-04-03T00:00:00.000Z"
+}

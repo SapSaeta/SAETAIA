@@ -1,0 +1,16 @@
+{
+  "id": "6d0046ccd858",
+  "slug": "2026-01-introducing-labs",
+  "status": "published",
+  "published_at": "2026-04-03T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/introducing-anthropic-labs",
+  "fecha": "2026-01-13",
+  "titulo": "Introducing Labs",
+  "resumen": "Anthropic expande Labs, un equipo dedicado a desarrollar productos experimentales en la frontera de las capacidades de Claude. La iniciativa cuenta con el cofundador de Instagram Mike Krieger como líder y busca equilibrar innovación con escalado responsable de productos de IA.",
+  "contenido": "Anthropic is expanding Labs, a team dedicated to developing experimental products at the frontier of Claude's capabilities. The initiative brings together leadership including former Instagram co-founder Mike Krieger as it aims to balance innovation with responsible scaling of AI products for enterprise and consumer users.\n\n[Leer artículo completo](https://www.anthropic.com/news/introducing-anthropic-labs)",
+  "categoria": "Empresa",
+  "tags": ["empresa", "anthropic", "news", "labs", "productos"],
+  "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=sky",
+  "ingested_at": "2026-04-03T00:00:00.000Z"
+}

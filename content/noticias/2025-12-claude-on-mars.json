@@ -1,0 +1,16 @@
+{
+  "id": "6af746734c3c",
+  "slug": "2025-12-claude-on-mars",
+  "status": "published",
+  "published_at": "2026-04-03T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/mars",
+  "fecha": "2025-12-10",
+  "titulo": "Claude on Mars",
+  "resumen": "Claude planificó con éxito la primera ruta autónoma del rover Perseverance en Marte, navegando 400 metros por terreno rocoso el 8 y 10 de diciembre de 2025. Los ingenieros del JPL proporcionaron a Claude años de datos de operación del rover y usaron Claude Code para generar comandos en Rover Markup Language.",
+  "contenido": "Anthropic's Claude AI model successfully planned the Perseverance Rover's first autonomous route on Mars, navigating a 400-meter path through rocky terrain on December 8 and 10, 2025. JPL engineers provided Claude with years of rover operation data and used Claude Code to generate commands in Rover Markup Language. The AI-planned waypoints required only minor adjustments after simulation testing with over 500,000 variables.\n\n[Leer artículo completo](https://www.anthropic.com/mars)",
+  "categoria": "Herramientas",
+  "tags": ["herramientas", "anthropic", "news", "claude", "nasa", "marte"],
+  "imagen": "https://cdn.sanity.io/images/4zrzovbb/website/c07f638082c569e8ce1e89ae95ee6f332a98ec08-2400x1260.jpg",
+  "ingested_at": "2026-04-03T00:00:00.000Z"
+}

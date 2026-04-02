@@ -1,7 +1,7 @@
 {
   "id": "9d6a48ccf42b",
   "slug": "2026-03-anthropic-invests-100-million-into-the-claude-partner-network",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/claude-partner-network",
   "fecha": "2026-03-12",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
-  "ingested_at": "2026-03-30T23:06:09.602Z"
+  "ingested_at": "2026-03-30T23:06:09.602Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

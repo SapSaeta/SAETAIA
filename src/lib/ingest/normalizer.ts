@@ -112,7 +112,8 @@ export function normalize(raw: RawItem): ContentEntry {
   return {
     id: generateId(raw.url),
     slug,
-    status: 'draft',
+    status: 'published',
+    published_at: new Date().toISOString(),
     source: raw.source,
     url_referencia: raw.url,
     fecha: raw.date,

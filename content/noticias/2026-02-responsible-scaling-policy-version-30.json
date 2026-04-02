@@ -1,7 +1,7 @@
 {
   "id": "0d40f97ea619",
   "slug": "2026-02-responsible-scaling-policy-version-30",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
   "fecha": "2026-02-25",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
-  "ingested_at": "2026-03-30T23:06:12.162Z"
+  "ingested_at": "2026-03-30T23:06:12.162Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "270c90d14572",
   "slug": "2026-03-enabling-claude-code-to-work-more-autonomously",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
   "fecha": "2026-03-02",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=clay",
-  "ingested_at": "2026-03-30T23:06:11.172Z"
+  "ingested_at": "2026-03-30T23:06:11.172Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

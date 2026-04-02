@@ -1,7 +1,7 @@
 {
   "id": "62d5eb25a465",
   "slug": "2026-02-anthropic-acquires-vercept-to-advance-claudex27s-computer-use-capabilities",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/acquires-vercept",
   "fecha": "2026-02-25",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
-  "ingested_at": "2026-03-30T23:06:08.517Z"
+  "ingested_at": "2026-03-30T23:06:08.517Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

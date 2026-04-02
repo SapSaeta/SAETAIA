@@ -1,7 +1,7 @@
 {
   "id": "490c7dfff243",
   "slug": "2026-03-anthropic-economic-index-report-learning-curves",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-research",
   "url_referencia": "https://www.anthropic.com/research/economic-index-march-2026-report",
   "fecha": "2026-03-25",
@@ -16,5 +16,6 @@
     "paper"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&amp;backgroundColor=coral",
-  "ingested_at": "2026-03-30T23:06:17.738Z"
+  "ingested_at": "2026-03-30T23:06:17.738Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

@@ -1,7 +1,7 @@
 {
   "id": "a6aa0996df7b",
   "slug": "2026-03-introducing-the-anthropic-institute",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/the-anthropic-institute",
   "fecha": "2026-03-11",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
-  "ingested_at": "2026-03-30T23:06:14.061Z"
+  "ingested_at": "2026-03-30T23:06:14.061Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }

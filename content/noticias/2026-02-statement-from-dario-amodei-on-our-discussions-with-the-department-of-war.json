@@ -1,7 +1,7 @@
 {
   "id": "1dfaa948d064",
   "slug": "2026-02-statement-from-dario-amodei-on-our-discussions-with-the-department-of-war",
-  "status": "draft",
+  "status": "published",
   "source": "anthropic-news",
   "url_referencia": "https://www.anthropic.com/news/statement-department-of-war",
   "fecha": "2026-02-26",
@@ -15,5 +15,6 @@
     "news"
   ],
   "imagen": "https://cdn.sanity.io/images/4zrzovbb/website/1864442e2d581ffc8242e7c57e2c4e2309351f49-1200x630.png",
-  "ingested_at": "2026-03-30T23:06:13.152Z"
+  "ingested_at": "2026-03-30T23:06:13.152Z",
+  "published_at": "2026-04-02T22:37:00.917Z"
 }
