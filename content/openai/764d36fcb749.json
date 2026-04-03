@@ -1,0 +1,18 @@
+{
+  "id": "764d36fcb749",
+  "slug": "2026-02-chatgpt-tareas-programadas",
+  "status": "published",
+  "published_at": "2026-02-05T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+  "fecha": "2026-02-05",
+  "titulo": "Tareas programadas en ChatGPT: automatización proactiva con o3 y o4-mini",
+  "resumen": "ChatGPT incorporó tareas programadas que permiten a los usuarios crear automatizaciones que se ejecutan en horarios específicos (puntuales o recurrentes) y envían notificaciones proactivas con los resultados. Las tareas son compatibles con los modelos o3 y o4-mini, se ejecutan incluso cuando el usuario está desconectado, y se notifican mediante notificaciones push o correo electrónico. Disponibles en web, iOS, Android y macOS.",
+  "contenido": "ChatGPT introdujo las tareas programadas, una nueva función que permite a los usuarios crear automatizaciones que se ejecutan en horarios determinados sin necesidad de estar presente en la conversación. Las tareas pueden configurarse como eventos puntuales o recurrentes.\n\nLas tareas son compatibles con los modelos o3 y o4-mini, aprovechando sus capacidades de razonamiento para tareas más complejas. Se ejecutan independientemente de si el usuario está conectado y envían notificaciones push o correos electrónicos al completarse.\n\nLa función está disponible en beta temprana para suscriptores Plus, Pro y Teams en plataformas web, iOS, Android y macOS. Casos de uso típicos incluyen resúmenes diarios de noticias, alertas de precios, actualizaciones periódicas de informes y recordatorios inteligentes.\n\n[Leer artículo completo](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)",
+  "categoria": "Herramientas",
+  "tags": ["openai", "chatgpt", "tareas-programadas", "automatizacion", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "herramienta"
+}

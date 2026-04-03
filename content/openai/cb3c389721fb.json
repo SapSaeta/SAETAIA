@@ -1,0 +1,18 @@
+{
+  "id": "cb3c389721fb",
+  "slug": "2026-03-model-spec-proteccion-adolescentes",
+  "status": "published",
+  "published_at": "2026-03-24T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/updating-model-spec-with-teen-protections/",
+  "fecha": "2026-03-24",
+  "titulo": "OpenAI actualiza el Model Spec con principios de protección para adolescentes",
+  "resumen": "OpenAI actualizó su Model Spec en marzo de 2026 incorporando principios U18 (menores de 18 años) que clarifican cómo las directrices de seguridad aplican en contextos con adolescentes. La actualización también renombra el nivel de autoridad superior de 'Platform' a 'Root' y refuerza las salvaguardias para casos de uso agéntico. GPT-5.4 Thinking logró las puntuaciones de cumplimiento más altas en cinco categorías.",
+  "contenido": "OpenAI actualizó su Model Spec en marzo de 2026 con dos cambios principales. Primero, se incorporaron los Principios U18 (Under-18) que clarifican cómo las directrices de seguridad aplican en contextos con usuarios adolescentes de 13 a 17 años, añadiendo orientación apropiada para la edad, límites más claros, menor exposición a contenido potencialmente dañino y mayor apoyo al mundo real cuando surgen riesgos.\n\nSegundo, la actualización renombra el nivel de autoridad superior de 'Platform' a 'Root' y lo eleva por encima de 'System', dejando claro qué partes del Model Spec no pueden anularse en ninguna conversación. La nueva jerarquía de autoridad es: Root → System → Developer → User → Guideline.\n\nLos cambios de marzo de 2026 se centran en fortalecer la claridad y las salvaguardias a medida que los modelos avanzan hacia casos de uso más agénticos. GPT-5.4 Thinking logró las puntuaciones de cumplimiento más altas en cinco categorías: cadena de mando, mantenerse dentro de los límites, buscar la verdad, hacer el mejor trabajo y usar el estilo apropiado.\n\n[Leer artículo completo](https://openai.com/index/updating-model-spec-with-teen-protections/)",
+  "categoria": "Seguridad",
+  "tags": ["openai", "model-spec", "seguridad", "adolescentes", "gobernanza-ia"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

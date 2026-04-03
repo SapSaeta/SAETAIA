@@ -1,0 +1,18 @@
+{
+  "id": "78593f4b387f",
+  "slug": "2026-01-nuevas-herramientas-construccion-agentes",
+  "status": "published",
+  "published_at": "2026-01-30T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/new-tools-for-building-agents/",
+  "fecha": "2026-01-30",
+  "titulo": "Nuevas herramientas para construir agentes: Responses API, búsqueda web, uso de computadora y Agents SDK",
+  "resumen": "OpenAI lanzó un conjunto completo de herramientas para construir agentes: la Responses API como nueva interfaz unificada, el Agents SDK open-source para orquestar flujos multi-agente con soporte de handoffs y guardrails, y herramientas integradas de búsqueda web, búsqueda en archivos, uso de computadora e intérprete de código. El SDK es agnóstico al proveedor, con soporte documentado para modelos no-OpenAI.",
+  "contenido": "OpenAI presentó un conjunto completo de herramientas para el desarrollo de agentes de IA. La pieza central es la Responses API, una nueva interfaz unificada que combina la simplicidad de la Chat Completions API con las capacidades de herramientas de la Assistants API.\n\nEl Agents SDK open-source proporciona primitivas para construir flujos multi-agente: Agentes (LLMs con instrucciones y herramientas), Handoffs (delegación entre agentes), Guardrails (validación de entradas/salidas) y Tracing (registro completo de la ejecución). El SDK es agnóstico al proveedor con soporte documentado para modelos de terceros.\n\nLas herramientas integradas incluyen búsqueda web en tiempo real, búsqueda en archivos con vector store, uso de computadora para interactuar con GUIs, e intérprete de código para análisis de datos y matemáticas. Además, hay soporte MCP en el Agents SDK para conectarse a cualquier servidor MCP con pocas líneas de código.\n\n[Leer artículo completo](https://openai.com/index/new-tools-for-building-agents/)",
+  "categoria": "API",
+  "tags": ["openai", "agents-sdk", "responses-api", "agentes", "herramientas", "mcp"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "herramienta"
+}

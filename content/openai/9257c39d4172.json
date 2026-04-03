@@ -1,0 +1,18 @@
+{
+  "id": "9257c39d4172",
+  "slug": "2026-03-nuevas-funciones-responses-api",
+  "status": "published",
+  "published_at": "2026-03-10T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/new-tools-and-features-in-the-responses-api/",
+  "fecha": "2026-03-10",
+  "titulo": "Nuevas herramientas en la Responses API: shell tool, container workspace y agent skills",
+  "resumen": "OpenAI extendió la Responses API con soporte para una herramienta shell, un bucle de ejecución de agentes integrado, un espacio de trabajo en contenedor alojado, compactación de contexto y habilidades de agente reutilizables. El entorno de ejecución en contenedor permite que archivos y bases de datos vivan con acceso a red gestionado mediante controles de política.",
+  "contenido": "OpenAI amplió la Responses API con un conjunto de nuevas capacidades orientadas a flujos de trabajo agénticos complejos. Las nuevas funciones incluyen:\n\n**Shell Tool**: permite ejecutar comandos de shell directamente en el flujo del agente, facilitando automatización y scripting.\n\n**Container Workspace**: un entorno de ejecución alojado en contenedor donde archivos y bases de datos pueden residir con acceso a red gestionado mediante controles de política de seguridad.\n\n**Bucle de ejecución integrado**: los agentes pueden iterar automáticamente sin requerir código de orquestación externo.\n\n**Compactación de contexto**: gestión inteligente del contexto para sesiones largas, evitando superar los límites de tokens.\n\n**Agent Skills reutilizables**: bloques de capacidades que pueden compartirse y reutilizarse entre diferentes agentes. OpenAI también anunció que planea migrar todas las funciones de la Assistants API a la Responses API, con una fecha de sunset prevista para Assistants en 2026.\n\n[Leer artículo completo](https://openai.com/index/new-tools-and-features-in-the-responses-api/)",
+  "categoria": "API",
+  "tags": ["openai", "responses-api", "agentes", "shell", "container", "api"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "herramienta"
+}

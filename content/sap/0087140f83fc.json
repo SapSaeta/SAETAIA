@@ -1,0 +1,18 @@
+{
+  "id": "0087140f83fc",
+  "slug": "2026-03-sap-concur-fusion-ia-viaje-gasto",
+  "status": "published",
+  "published_at": "2026-03-17T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/03/sap-concur-fusion-2026-ai-capabilities-integrated-travel-expense-enhancements-global-partnerships/",
+  "fecha": "2026-03-17",
+  "titulo": "SAP Concur Fusion 2026: Joule AI automatiza viajes, gastos y pagos",
+  "resumen": "En SAP Concur Fusion 2026, SAP presentó la integración de Joule con Microsoft 365 Copilot para gestión de gastos y viajes, junto con dos nuevos agentes: Expense Automation Agent (generación automática de informes de gastos) y Expense Pre-Submit Audit Agent (validación previa al envío). También se anunció la integración con Visa Commercial para notificaciones en tiempo real.",
+  "contenido": "SAP presentó en SAP Concur Fusion 2026 sus últimas innovaciones de IA para la gestión de viajes y gastos empresariales:\n\n**Integración Joule + Microsoft 365 Copilot**: los empleados pueden crear y enviar informes de gastos, subir recibos, reservar viajes y acceder a políticas directamente desde las herramientas de Microsoft, reduciendo el cambio de contexto entre aplicaciones.\n\n**Expense Automation Agent**: genera y rellena automáticamente informes de gastos, desplazando el rol del empleado a la revisión y envío en lugar de la entrada de datos manual. Disponible en SAP Early Adopter Care.\n\n**Expense Pre-Submit Audit Agent**: valida recibos y detecta discrepancias antes del envío, reduciendo retrabajos y acelerando los ciclos de reembolso. También en Early Adopter Care con GA prevista para más adelante en 2026.\n\n**Herramientas de creación de reglas basadas en IA**: simplifican la gestión de reglas de política en Complete by SAP Concur y Amex GBT, Concur Travel y Concur Expense, permitiendo a los administradores subir documentos de política con creación automática de reglas.\n\n**Integración Visa**: alianza con Visa Commercial Integrated Partner para notificaciones en tiempo real de tarjetas Visa, creando gastos automáticamente en Concur Expense, prevista para Q3 2026.\n\n[Leer artículo completo](https://news.sap.com/2026/03/sap-concur-fusion-2026-ai-capabilities-integrated-travel-expense-enhancements-global-partnerships/)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "concur", "joule", "microsoft365", "gastos", "viajes", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

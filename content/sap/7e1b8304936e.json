@@ -1,0 +1,18 @@
+{
+  "id": "7e1b8304936e",
+  "slug": "2026-01-sap-ux-q1-2026-ia-joule-actualizacion",
+  "status": "published",
+  "published_at": "2026-01-20T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-ux-q1-2026-update-part-1-ai-joule-sap-build-work-zone-sap-mobile-start/ba-p/14312110",
+  "fecha": "2026-01-20",
+  "titulo": "SAP UX Q1/2026: actualizaciones de IA, Joule, SAP Build Work Zone y Mobile Start",
+  "resumen": "SAP publicó el primer resumen de actualizaciones de UX del Q1/2026, cubriendo novedades en IA, Joule, SAP Build Work Zone y SAP Mobile Start. Los highlights incluyen la disponibilidad general del Joule Agent Builder en Q1 2026, Document AI para SAP Mobile Start, y nuevas innovaciones en beta: Joule Deep Research y Joule Action Bar.",
+  "contenido": "SAP publicó el primer resumen de actualizaciones de UX del primer trimestre de 2026, cubriendo cuatro áreas principales:\n\n**Joule Agent Builder GA**: en Q1 2026, el constructor de agentes de Joule Studio alcanzó disponibilidad general, permitiendo a las empresas diseñar agentes y habilidades de Joule personalizados usando el conocimiento empresarial integrado y los servicios de IA de SAP. SAP Build customers pueden ejecutar agentes Joule personalizados sin coste hasta el 31 de mayo de 2026.\n\n**Document AI para SAP Mobile Start**: nueva capacidad de procesamiento inteligente de documentos disponible en la aplicación móvil.\n\n**Joule Deep Research (beta)**: nueva capacidad de investigación profunda dentro de Joule que permite análisis exhaustivos de información empresarial.\n\n**Joule Action Bar (beta)**: nueva barra de acciones contextual que facilita la ejecución de acciones frecuentes directamente desde la interfaz de Joule.\n\nJoule está disponible ahora en 13 idiomas, ampliando su alcance a más usuarios globales de SAP.\n\n[Leer artículo completo](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-ux-q1-2026-update-part-1-ai-joule-sap-build-work-zone-sap-mobile-start/ba-p/14312110)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule", "ux", "build", "mobile", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

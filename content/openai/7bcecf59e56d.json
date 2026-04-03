@@ -1,0 +1,18 @@
+{
+  "id": "7bcecf59e56d",
+  "slug": "2026-01-computer-using-agent-cua",
+  "status": "published",
+  "published_at": "2026-01-23T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/computer-using-agent/",
+  "fecha": "2026-01-23",
+  "titulo": "Computer-Using Agent (CUA): el modelo que impulsa Operator",
+  "resumen": "OpenAI presentó el Computer-Using Agent (CUA), el modelo que impulsa Operator, que combina las capacidades de visión de GPT-4o con razonamiento avanzado mediante aprendizaje por refuerzo. El CUA puede 'ver' a través de capturas de pantalla e 'interactuar' usando todas las acciones de ratón y teclado, permitiéndole ejecutar tareas en navegadores y aplicaciones de escritorio sin necesidad de integraciones API personalizadas.",
+  "contenido": "OpenAI presentó el Computer-Using Agent (CUA), el modelo de IA que impulsa la herramienta Operator. El CUA combina las capacidades de visión de GPT-4o con razonamiento avanzado entrenado mediante aprendizaje por refuerzo para interactuar con interfaces gráficas de usuario (GUIs).\n\nEl modelo puede 'ver' el estado de una pantalla a través de capturas de pantalla e 'interactuar' utilizando cualquier acción disponible con ratón y teclado. Esto le permite navegar por páginas web, rellenar formularios, hacer pedidos en línea, programar citas y realizar otras tareas basadas en el navegador sin requerir integraciones API personalizadas con cada sitio web.\n\nCuando el CUA se enfrenta a situaciones difíciles o comete errores, puede aprovechar sus capacidades de razonamiento para autocorregirse. Si necesita asistencia o se bloquea, devuelve el control al usuario de forma fluida, garantizando una experiencia colaborativa.\n\n[Leer artículo completo](https://openai.com/index/computer-using-agent/)",
+  "categoria": "Investigación",
+  "tags": ["openai", "cua", "operator", "computer-use", "agentes", "gui"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

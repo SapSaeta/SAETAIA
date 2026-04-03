@@ -1,0 +1,18 @@
+{
+  "id": "48cf7dbbb4a4",
+  "slug": "2026-02-joule-sap-signavio-disponibilidad-general",
+  "status": "published",
+  "published_at": "2026-02-10T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/02/process-conversation-joule-sap-signavio-solutions-generally-available/",
+  "fecha": "2026-02-10",
+  "titulo": "Joule con SAP Signavio ya disponible: conversación con los procesos de negocio",
+  "resumen": "SAP anunció la disponibilidad general de Joule con SAP Signavio el 10 de febrero de 2026, permitiendo a los usuarios analizar y gestionar procesos de negocio mediante lenguaje natural. La integración ofrece más de 50 habilidades en tres áreas (informacional, navegacional y transaccional) y cinco agentes Joule en beta para análisis de dashboards, recomendación de contenido, guía en pantalla, creación de casos de valor y administración de workspaces.",
+  "contenido": "SAP anunció el 10 de febrero de 2026 la disponibilidad general de Joule con SAP Signavio Solutions, integrando el asistente de IA Joule con la plataforma de gestión de procesos empresariales de SAP.\n\nLa integración permite a los usuarios analizar y gestionar sus procesos de negocio utilizando lenguaje natural, democratizando el acceso a las capacidades de SAP Signavio. La versión GA ofrece más de 50 habilidades distribuidas en tres categorías:\n- **Informacional**: responde preguntas sobre el estado y rendimiento de los procesos\n- **Navegacional**: guía a los usuarios a través de las funciones de la plataforma\n- **Transaccional**: ejecuta acciones directamente en los sistemas\n\nAdemás, se lanzaron cinco agentes Joule para SAP Signavio en beta dedicada: Dashboard Analyzer Agent, Process Content Recommender Agent, Screen Guide Agent, Value Case Creation Agent y Workspace Administration Agent. Estos agentes pueden acelerar el descubrimiento de contenido, el análisis de procesos, y mejorar la incorporación de usuarios.\n\n[Leer artículo completo](https://news.sap.com/2026/02/process-conversation-joule-sap-signavio-solutions-generally-available/)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule", "signavio", "procesos", "bpm", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

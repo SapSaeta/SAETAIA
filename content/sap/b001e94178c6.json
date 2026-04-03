@@ -1,0 +1,18 @@
+{
+  "id": "b001e94178c6",
+  "slug": "2026-01-sap-business-ai-highlights-q4-2025",
+  "status": "published",
+  "published_at": "2026-01-15T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/01/sap-business-ai-release-highlights-q4-2025/",
+  "fecha": "2026-01-15",
+  "titulo": "SAP Business AI: Highlights de lanzamiento Q4 2025",
+  "resumen": "SAP publicó el resumen de highlights de lanzamiento de Business AI del cuarto trimestre de 2025, con más de 350 características de IA incluyendo Joule Agents y 2.400 habilidades de Joule. Se incorporan nuevos modelos como Perplexity Sonar Pro, Anthropic Claude 4.5 y Gemini 2.5 Flash Lite al hub de IA generativa de SAP BTP, consolidando la plataforma como ecosistema multimodelo.",
+  "contenido": "SAP publicó el resumen de lanzamiento de Business AI correspondiente al Q4 2025, detallando los avances en su plataforma de inteligencia artificial empresarial. El informe destaca que las más de 350 características de IA, incluyendo Joule Agents, junto con las más de 2.400 habilidades de Joule, están entregando valor a los clientes construidas sobre AI Foundation en SAP Business Technology Platform (SAP BTP).\n\nUna novedad destacada es la incorporación de nuevos modelos de IA al hub de IA generativa de SAP: Perplexity Sonar, Sonar Pro, Anthropic Claude 4.5 Sonnet, Anthropic Claude 4.5 Haiku, Cohere Command A Reasoning y Gemini 2.5 Flash Lite. También se menciona SAP-RPT-1, el motor de IA universal de SAP que puede interpretar datos empresariales relacionales y manejar prácticamente cualquier tarea predictiva.\n\nSAP EU AI Cloud, la oferta de nube soberana de pila completa que soporta residencia de datos en la UE y plena soberanía, también fue destacada como una novedad significativa del período.\n\n[Leer artículo completo](https://news.sap.com/2026/01/sap-business-ai-release-highlights-q4-2025/)",
+  "categoria": "Empresa",
+  "tags": ["sap", "business-ai", "joule", "btp", "s4hana", "llm"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

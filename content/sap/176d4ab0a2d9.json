@@ -1,0 +1,18 @@
+{
+  "id": "176d4ab0a2d9",
+  "slug": "2026-01-joule-para-desarrolladores-abap-ia",
+  "status": "published",
+  "published_at": "2026-01-10T00:00:00.000Z",
+  "source": "sap-community",
+  "url_referencia": "https://www.sap.com/products/artificial-intelligence/joule-for-developers.html",
+  "fecha": "2026-01-10",
+  "titulo": "Joule para Desarrolladores: el copiloto de IA para el desarrollo ABAP y SAP",
+  "resumen": "Joule para Desarrolladores es el copiloto de IA de SAP integrado en las herramientas de desarrollo ABAP, disponible en SAP BTP ABAP Environment y SAP S/4HANA. En 2026, evoluciona de habilidades de IA independientes a IA Agéntica completa con soporte para VS Code mediante ABAP MCP Server. El período gratuito de Joule para Desarrolladores se ha extendido hasta septiembre de 2026.",
+  "contenido": "Joule para Desarrolladores es el copiloto de IA de SAP diseñado específicamente para la comunidad de desarrolladores ABAP y SAP. Disponible en el SAP BTP ABAP Environment y SAP S/4HANA, proporciona asistencia de IA directamente en el entorno de desarrollo.\n\nCapacidades actuales en 2026:\n- **Generación de código ABAP**: genera código ABAP para RAP, CDS, Test Units y otros patrones comunes\n- **Explicación de código**: analiza y explica código ABAP existente en lenguaje natural\n- **Completado inteligente**: sugerencias contextuales basadas en el código circundante\n- **Generación de tests**: crea automáticamente tests unitarios para código ABAP\n\nRoadmap 2026:\n- **ABAP MCP Server**: integración con herramientas de desarrollo ABAP en VS Code mediante el protocolo MCP, permitiendo una experiencia de desarrollo más moderna\n- **IA Agéntica**: transición de habilidades independientes a un colaborador autónomo que puede planificar y ejecutar tareas de desarrollo complejas\n\nSAP extendió el período gratuito de Joule para Desarrolladores hasta septiembre de 2026, facilitando la adopción.\n\n[Leer artículo completo](https://www.sap.com/products/artificial-intelligence/joule-for-developers.html)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule", "abap", "desarrolladores", "copiloto", "vscode"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "herramienta"
+}

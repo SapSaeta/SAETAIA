@@ -1,0 +1,18 @@
+{
+  "id": "ec97abb4336e",
+  "slug": "2026-03-ui-generativa-nueva-frontera-software-empresarial",
+  "status": "published",
+  "published_at": "2026-03-20T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/03/why-is-generative-ui-the-new-frontier-for-business-software/",
+  "fecha": "2026-03-20",
+  "titulo": "Por qué la UI Generativa es la nueva frontera del software empresarial",
+  "resumen": "SAP argumenta que la UI Generativa representa la transición de suites de software estáticas a aplicaciones 'de tamaño 1' que actúan como centros de control efímeros adaptados a cada problema específico. Combinando Joule y Joule Agents con interfaces adaptativas, SAP visualiza sistemas donde las interfaces se materializan en torno a la intención del usuario, basadas en datos en vivo y ejecutadas por agentes.",
+  "contenido": "SAP publicó en marzo de 2026 su visión sobre la UI Generativa como la siguiente frontera del software empresarial. El artículo argumenta que la UI Generativa marca la transición de suites de software estáticas a aplicaciones de 'tamaño de lote 1', interfaces efímeras que actúan como centros de control personalizados para cada problema específico.\n\nEn lugar de dashboards bajo demanda, la visión de SAP es dirigir un negocio con interfaces que se adaptan al rol, contexto y tareas de cada usuario. SAP está combinando Joule y Joule Agents con esta visión de UI generativa, donde los usuarios interactúan con procesos profundamente integrados a través de interfaces simples mientras Joule gestiona la orquestación subyacente.\n\nEl futuro que SAP vislumbra es el de 'misiones de control a medida': interfaces que se materializan alrededor de la intención del usuario, fundamentadas en datos en vivo, ejecutadas por agentes y gobernadas por el usuario. Esta visión se construye sobre las capacidades de integración y orquestación existentes de Joule, que conectan con sistemas en todo el panorama empresarial y coordinan agentes para ejecutar flujos de trabajo complejos.\n\n[Leer artículo completo](https://news.sap.com/2026/03/why-is-generative-ui-the-new-frontier-for-business-software/)",
+  "categoria": "Investigación",
+  "tags": ["sap", "joule", "ui-generativa", "agentes", "ux", "innovacion"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

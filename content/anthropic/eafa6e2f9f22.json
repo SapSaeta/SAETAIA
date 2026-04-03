@@ -1,0 +1,18 @@
+{
+  "id": "eafa6e2f9f22",
+  "slug": "2026-03-uso-avanzado-herramientas-claude-api",
+  "status": "published",
+  "published_at": "2026-03-10T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/engineering/advanced-tool-use",
+  "fecha": "2026-03-10",
+  "titulo": "Uso avanzado de herramientas en Claude: Tool Search, MCP Apps y soporte interactivo",
+  "resumen": "Anthropic detalló las capacidades avanzadas de uso de herramientas en Claude, incluyendo MCP Tool Search con lazy loading que reduce los tokens de 134k a 5k, la extensión MCP Apps para interfaces interactivas renderizadas dentro de Claude, y nuevas restricciones de contexto (cap de 2KB en descripciones de herramientas, deduplicación de servidores MCP y caché de system-prompt global).",
+  "contenido": "Anthropic publicó detalles técnicos sobre las capacidades avanzadas de uso de herramientas en Claude, abarcando varias innovaciones:\n\n**MCP Tool Search**: cambia fundamentalmente el modelo de carga de herramientas usando lazy loading. En lugar de precargar todas las definiciones de herramientas en el contexto, solo se obtiene la herramienta específica necesaria para cada tarea. Las pruebas internas mostraron una reducción del uso de tokens de ~134k a ~5k (reducción del 85%), crítica para despliegues con miles de herramientas.\n\n**MCP Apps (Interactive Tool Support)**: extensión del protocolo MCP (SEP-1865) que permite a los servidores MCP proporcionar interfaces de usuario interactivas renderizadas dentro de los productos de Claude mediante HTML en iframes con sandbox. Esto permite que las herramientas presenten información visual y recojan inputs complejos del usuario.\n\n**Mejoras de producción (2026)**:\n- Descripciones de herramientas y server instructions limitadas a 2KB para evitar que servidores generados con OpenAPI expandan el contexto\n- Deduplicación de servidores MCP configurados localmente y vía conectores de claude.ai (la configuración local tiene prioridad)\n- Caché de system-prompt global funciona cuando Tool Search está habilitado para usuarios con herramientas MCP configuradas\n\n[Leer artículo completo](https://www.anthropic.com/engineering/advanced-tool-use)",
+  "categoria": "API",
+  "tags": ["anthropic", "claude", "mcp", "herramientas", "api", "tool-search"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "anthropic",
+  "tipo": "herramienta"
+}

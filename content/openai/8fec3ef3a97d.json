@@ -1,0 +1,18 @@
+{
+  "id": "8fec3ef3a97d",
+  "slug": "2026-02-introduciendo-deep-research",
+  "status": "published",
+  "published_at": "2026-02-10T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/introducing-deep-research/",
+  "fecha": "2026-02-10",
+  "titulo": "Deep Research en ChatGPT: investigación autónoma al nivel de analista",
+  "resumen": "OpenAI lanzó Deep Research, un agente autónomo que busca, analiza y sintetiza cientos de fuentes en línea para crear informes completos al nivel de un analista de investigación. Desde febrero de 2026 usa un modelo basado en GPT-5.2 y permite conectarse a cualquier servidor MCP o app, restringir búsquedas a sitios de confianza, y rastrear el progreso en tiempo real.",
+  "contenido": "OpenAI introdujo Deep Research como su siguiente agente autónomo de investigación. El usuario proporciona un prompt y ChatGPT busca, analiza y sintetiza cientos de fuentes en línea para crear un informe completo al nivel de un analista de investigación.\n\nDesde febrero de 2026, Deep Research usa un modelo basado en GPT-5.2. Las nuevas capacidades permiten conectarse a cualquier servidor MCP o aplicación, restringir búsquedas a sitios de confianza, rastrear el progreso en tiempo real, e interrumpir para refinar con prompts de seguimiento o nuevas fuentes.\n\nOtras mejoras incluyen una barra lateral rediseñada, vista de informe en pantalla completa, capacidad de crear y editar el plan de investigación antes de comenzar. El modo Deep Research heredado fue retirado el 26 de marzo de 2026. El acceso está disponible para suscriptores Plus, Pro y Teams de ChatGPT.\n\n[Leer artículo completo](https://openai.com/index/introducing-deep-research/)",
+  "categoria": "Herramientas",
+  "tags": ["openai", "deep-research", "chatgpt", "investigacion", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

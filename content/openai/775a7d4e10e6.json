@@ -1,0 +1,18 @@
+{
+  "id": "775a7d4e10e6",
+  "slug": "2026-01-stargate-cinco-nuevos-sitios",
+  "status": "published",
+  "published_at": "2026-01-28T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/five-new-stargate-sites/",
+  "fecha": "2026-01-28",
+  "titulo": "OpenAI, Oracle y SoftBank expanden Stargate con cinco nuevos centros de datos",
+  "resumen": "OpenAI anunció la apertura de cinco nuevos sitios de Stargate en colaboración con Oracle y SoftBank, sumando a la capacidad del sitio insignia en Abilene, Texas y proyectos con CoreWeave. La capacidad combinada lleva a Stargate a casi 7 gigavatios planificados y más de $400.000 millones en inversión durante los próximos tres años.",
+  "contenido": "OpenAI, Oracle y SoftBank anunciaron cinco nuevos sitios del Proyecto Stargate, expandiendo significativamente la infraestructura de centros de datos de IA en Estados Unidos. Junto con el sitio insignia en Abilene, Texas, y los proyectos en curso con CoreWeave, la capacidad combinada lleva a Stargate a casi 7 gigavatios de capacidad planificada.\n\nLa inversión total supera los $400.000 millones comprometidos para los próximos tres años, convirtiendo a Stargate en la mayor iniciativa de infraestructura de IA en la historia. Los cinco nuevos sitios se distribuyen estratégicamente para optimizar la latencia y redundancia de los servicios de OpenAI.\n\nEn paralelo, OpenAI anunció la expansión global con 'Stargate UAE', un centro de datos de 1 GW en Abu Dabi, con 200 megavatios previstos para entrar en servicio en 2026, y la iniciativa 'OpenAI for Countries' con 10 proyectos Stargate globales.\n\n[Leer artículo completo](https://openai.com/index/five-new-stargate-sites/)",
+  "categoria": "Empresa",
+  "tags": ["openai", "stargate", "infraestructura", "oracle", "softbank", "datacenter"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2ab41b5adede",
+  "slug": "2026-01-ia-agentiva-remodela-comercio",
+  "status": "published",
+  "published_at": "2026-01-22T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/01/agentic-ai-reshaping-commerce-discovery-payments-trust/",
+  "fecha": "2026-01-22",
+  "titulo": "La IA agéntica remodela el comercio: descubrimiento, pagos y confianza",
+  "resumen": "SAP publicó un análisis exhaustivo sobre cómo la IA agéntica está transformando el comercio, con implicaciones en tres dimensiones: descubrimiento de productos impulsado por agentes en plataformas como ChatGPT o Perplexity, nuevos modelos de pago y autorización para transacciones autónomas, y marcos de confianza para habilitar el comercio machine-to-machine con los estándares de seguridad necesarios.",
+  "contenido": "SAP publicó en enero de 2026 un análisis detallado sobre el impacto de la IA agéntica en el comercio electrónico y los procesos comerciales empresariales. El análisis identifica tres vectores de transformación fundamentales:\n\n**Descubrimiento de productos**: los agentes de IA en plataformas como ChatGPT, Perplexity u otros asistentes comenzarán a realizar búsquedas de productos y comparaciones en nombre de los consumidores, transformando el SEO y las estrategias de visibilidad de producto.\n\n**Pagos y autorización**: el comercio autónomo requiere nuevos modelos de pago donde los agentes puedan autorizar transacciones dentro de límites predefinidos por el usuario, con mecanismos de control y trazabilidad apropiados.\n\n**Confianza y seguridad**: para habilitar el comercio machine-to-machine, SAP propone marcos de confianza que incluyen verificación de identidad de agentes, controles de política y auditoría completa de transacciones. El protocolo MCP juega un papel central en este ecosistema como estándar para la comunicación entre agentes y sistemas.\n\n[Leer artículo completo](https://news.sap.com/2026/01/agentic-ai-reshaping-commerce-discovery-payments-trust/)",
+  "categoria": "Investigación",
+  "tags": ["sap", "comercio-agentivo", "ia", "pagos", "confianza", "mcp"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

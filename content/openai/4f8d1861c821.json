@@ -1,0 +1,18 @@
+{
+  "id": "4f8d1861c821",
+  "slug": "2026-03-introduciendo-gpt-5-4",
+  "status": "published",
+  "published_at": "2026-03-29T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/introducing-gpt-5-4/",
+  "fecha": "2026-03-29",
+  "titulo": "Introduciendo GPT-5.4: uso de computadora nativo y contexto de 1M tokens",
+  "resumen": "OpenAI lanzó GPT-5.4 con capacidades nativas de uso de computadora, obteniendo un 75% en el benchmark OSWorld-Verified, por encima del promedio humano del 72%. El modelo duplica la ventana de contexto a 1 millón de tokens y reduce las tasas de alucinación en un 33% respecto a GPT-5.2. También se anunciaron las variantes GPT-5.4 mini y nano para dispositivos de menor potencia.",
+  "contenido": "OpenAI presentó GPT-5.4 el 29 de marzo de 2026, destacando capacidades nativas de uso de computadora que logran un 75% en el benchmark OSWorld-Verified, superando el promedio humano del 72%. Este modelo representa un avance significativo en la capacidad de los agentes de IA para interactuar con interfaces de usuario.\n\nEntre las mejoras clave se incluyen: ventana de contexto de 1 millón de tokens (el doble que GPT-5.2), reducción del 33% en tasas de alucinación, y capacidades mejoradas de razonamiento multimodal. El modelo está disponible en versiones estándar, pro y thinking.\n\nAdemás, OpenAI anunció las variantes GPT-5.4 mini y nano diseñadas para eficiencia, permitiendo capacidades avanzadas de IA en dispositivos más pequeños o aplicaciones que requieren tiempos de respuesta casi instantáneos.\n\n[Leer artículo completo](https://openai.com/index/introducing-gpt-5-4/)",
+  "categoria": "LLMs",
+  "tags": ["openai", "gpt-5.4", "computer-use", "contexto", "modelo"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

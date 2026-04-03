@@ -1,0 +1,18 @@
+{
+  "id": "f8e84c3236af",
+  "slug": "2026-02-mcp-estandar-industria-fundacion-ia-agentiva",
+  "status": "published",
+  "published_at": "2026-02-15T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+  "fecha": "2026-02-15",
+  "titulo": "Anthropic dona el Model Context Protocol y establece la Agentic AI Foundation",
+  "resumen": "Anthropic donó el Model Context Protocol (MCP) a una fundación independiente, la Agentic AI Foundation, para asegurar su desarrollo neutral y abierto como estándar de la industria. El 25 de marzo de 2026, MCP superó los 97 millones de instalaciones, convirtiéndose en el estándar de infraestructura de IA agéntica de más rápida adopción en la historia.",
+  "contenido": "Anthropic anunció la donación del Model Context Protocol (MCP) a la Agentic AI Foundation, una organización independiente establecida para supervisar el desarrollo neutral y abierto del protocolo como estándar de la industria para la IA agéntica.\n\nEl MCP es un protocolo abierto que estandariza cómo los modelos de IA se conectan a herramientas, datos y servicios externos. La donación asegura que ninguna empresa individual controle la evolución del estándar, similar a cómo Linux Foundation supervisa proyectos críticos de infraestructura de código abierto.\n\nHitos de adopción:\n- **97 millones de instalaciones** al 25 de marzo de 2026, el estándar de IA de adopción más rápida en la historia\n- **Más de 75 conectores** disponibles en el directorio de Claude\n- Reducción del 40% en tasas de error de uso de herramientas en Claude en marzo de 2026\n\nEn el roadmap de 2026 se incluyen: Enterprise Authentication con OAuth 2.1 y SAML/OIDC para Q2 2026, coordinación agente-a-agente para Q3 2026, y MCP Registry con directorio curado y auditado para Q4 2026.\n\n[Leer artículo completo](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)",
+  "categoria": "Herramientas",
+  "tags": ["anthropic", "mcp", "model-context-protocol", "open-source", "agentes", "estandar"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "anthropic",
+  "tipo": "herramienta"
+}

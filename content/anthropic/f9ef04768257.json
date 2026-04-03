@@ -1,0 +1,18 @@
+{
+  "id": "f9ef04768257",
+  "slug": "2026-01-claude-api-capacidades-agentes",
+  "status": "published",
+  "published_at": "2026-01-27T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://www.anthropic.com/news/agent-capabilities-api",
+  "fecha": "2026-01-27",
+  "titulo": "Nuevas capacidades para construir agentes en la API de Anthropic",
+  "resumen": "Anthropic lanzó nuevas capacidades agénticas en la API de Claude, incluyendo Tool Search (búsqueda dinámica de herramientas con lazy loading que reduce el uso de tokens de 134k a 5k), Programmatic Tool Calling (invocación de herramientas en entorno de ejecución de código) y Tool Use Examples (estándar para demostrar el uso de herramientas). El conector MCP permite conectar Claude a cualquier servidor MCP remoto sin escribir código cliente.",
+  "contenido": "Anthropic presentó un conjunto de nuevas capacidades avanzadas para la construcción de agentes en la API de Claude, diseñadas para optimizar flujos de trabajo de producción a gran escala.\n\n**Tool Search**: cambia fundamentalmente cómo se cargan las herramientas mediante lazy loading, obteniendo dinámicamente solo la herramienta específica necesaria para una tarea en lugar de precargar todas las definiciones. Las pruebas internas mostraron una reducción del uso de tokens de aproximadamente 134k a 5k, una mejora del 85%.\n\n**MCP Connector en la API**: permite a los desarrolladores conectar Claude a cualquier servidor MCP remoto sin necesidad de escribir código cliente. La API de Anthropic gestiona toda la gestión de conexiones, el descubrimiento de herramientas y el manejo de errores automáticamente.\n\n**Programmatic Tool Calling**: habilita a Claude para invocar herramientas en un entorno de ejecución de código, mejorando la fiabilidad en tareas computacionales complejas.\n\n**Tool Use Examples**: proporciona un estándar para demostrar el uso de herramientas con ejemplos, mejorando la consistencia del comportamiento del modelo.\n\n[Leer artículo completo](https://www.anthropic.com/news/agent-capabilities-api)",
+  "categoria": "API",
+  "tags": ["anthropic", "claude", "api", "agentes", "mcp", "herramientas"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "anthropic",
+  "tipo": "herramienta"
+}

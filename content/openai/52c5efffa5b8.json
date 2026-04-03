@@ -1,0 +1,18 @@
+{
+  "id": "52c5efffa5b8",
+  "slug": "2026-02-openai-agents-sdk-python-typescript",
+  "status": "published",
+  "published_at": "2026-02-01T00:00:00.000Z",
+  "source": "openai-github",
+  "url_referencia": "https://openai.github.io/openai-agents-python/",
+  "fecha": "2026-02-01",
+  "titulo": "OpenAI Agents SDK: framework open-source para flujos multi-agente",
+  "resumen": "OpenAI publicó el Agents SDK como framework ligero y potente de código abierto para construir flujos de trabajo multi-agente en Python y TypeScript. El SDK incluye primitivas para Agentes (LLMs con instrucciones y herramientas), Handoffs (delegación entre agentes), Guardrails (validación de entradas/salidas), Tracing y soporte para servidores MCP. Es agnóstico al proveedor y admite modelos de terceros.",
+  "contenido": "El OpenAI Agents SDK es un framework de código abierto diseñado para simplificar el desarrollo de sistemas multi-agente. Disponible para Python y TypeScript/JavaScript, proporciona las primitivas necesarias para construir agentes sofisticados.\n\nLas primitivas principales del SDK son:\n- **Agents**: LLMs configurados con instrucciones y herramientas específicas\n- **Handoffs**: mecanismo para que un agente delegue tareas a otro agente especializado\n- **Guardrails**: validación configurable de entradas y salidas para asegurar comportamiento seguro\n- **Tracing**: registro completo del flujo de ejecución para depuración y monitoreo\n- **MCP Support**: integración con servidores del Model Context Protocol para acceso a herramientas externas\n\nEl SDK es agnóstico al proveedor de LLM, con documentación oficial para usar modelos de terceros como Anthropic Claude, Google Gemini y otros. Esto permite a los desarrolladores construir sistemas donde diferentes agentes usen diferentes modelos según sus necesidades.\n\n[Leer artículo completo](https://openai.github.io/openai-agents-python/)",
+  "categoria": "Herramientas",
+  "tags": ["openai", "agents-sdk", "python", "typescript", "multi-agente", "open-source"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "herramienta"
+}

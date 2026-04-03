@@ -1,0 +1,18 @@
+{
+  "id": "1f0ea6af0161",
+  "slug": "2026-02-frontier-alliances-empresas-consultoras",
+  "status": "published",
+  "published_at": "2026-02-23T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/frontier-alliance-partners/",
+  "fecha": "2026-02-23",
+  "titulo": "OpenAI lanza Frontier Alliances con BCG, McKinsey, Accenture y Capgemini",
+  "resumen": "OpenAI anunció la iniciativa Frontier Alliances, estableciendo alianzas plurianuales con Boston Consulting Group, McKinsey & Company, Accenture y Capgemini para desplegar agentes de IA en empresas. Las consultoras combinarán la tecnología de OpenAI con experiencia en transformación operativa, integración de sistemas y gestión del cambio para llevar la IA agéntica a producción a escala global.",
+  "contenido": "OpenAI presentó Frontier Alliances el 23 de febrero de 2026, estableciendo alianzas estratégicas plurianuales con cuatro de las principales consultoras globales: Boston Consulting Group (BCG), McKinsey & Company, Accenture y Capgemini.\n\nLa iniciativa está diseñada para ayudar a las organizaciones a llevar agentes de IA a producción, combinando la tecnología de OpenAI con la experiencia de las consultoras en diseño de modelos operativos, integración de sistemas y adopción organizacional a escala global.\n\nBCG y McKinsey ayudarán a los clientes a definir estrategia, modelo operativo y plan de gestión del cambio. Accenture y Capgemini aportarán tanto asesoramiento estratégico como capacidad de integración técnica en los sistemas que las empresas realmente utilizan. Cada partner invertirá en grupos de práctica dedicados y equipos certificados en tecnología OpenAI, trabajando junto al equipo de Forward Deployed Engineering (FDE) de OpenAI.\n\n[Leer artículo completo](https://openai.com/index/frontier-alliance-partners/)",
+  "categoria": "Empresa",
+  "tags": ["openai", "frontier-alliances", "enterprise", "consultoras", "bcg", "mckinsey"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d83da36ac761",
+  "slug": "2026-02-introduciendo-chatgpt-agent",
+  "status": "published",
+  "published_at": "2026-02-15T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/introducing-chatgpt-agent/",
+  "fecha": "2026-02-15",
+  "titulo": "Introduciendo ChatGPT Agent: unificando investigación y acción",
+  "resumen": "OpenAI lanzó ChatGPT Agent, que unifica las capacidades de Operator (interacción con sitios web), Deep Research (síntesis de información) y la inteligencia conversacional de ChatGPT en un único flujo de trabajo. El agente puede navegar la web, recuperar y sintetizar información, y actuar en sistemas externos, todo desde una sola interfaz mediante el modo agente.",
+  "contenido": "OpenAI presentó ChatGPT Agent, el resultado de la fusión de Operator y Deep Research en una sola herramienta dentro de ChatGPT. El agente combina tres fortalezas: la capacidad de Operator para interactuar con sitios web, la habilidad de Deep Research para sintetizar información, y la inteligencia y fluidez conversacional de ChatGPT.\n\nLos usuarios pueden acceder a las capacidades del agente seleccionando 'modo agente' en el desplegable del compositor de ChatGPT. El agente puede navegar la web, ejecutar código, acceder a archivos, interactuar con aplicaciones conectadas y completar tareas de múltiples pasos de forma autónoma.\n\nCuando el agente encuentra dificultades o comete errores, puede autoregularse mediante sus capacidades de razonamiento. Si necesita asistencia, devuelve el control al usuario de forma fluida. El acceso completo requiere suscripción ChatGPT Pro a $200/mes.\n\n[Leer artículo completo](https://openai.com/index/introducing-chatgpt-agent/)",
+  "categoria": "Herramientas",
+  "tags": ["openai", "chatgpt-agent", "operator", "deep-research", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

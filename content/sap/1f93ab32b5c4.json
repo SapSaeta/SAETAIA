@@ -1,0 +1,18 @@
+{
+  "id": "1f93ab32b5c4",
+  "slug": "2026-01-joule-studio-constructor-agentes-habilidades",
+  "status": "published",
+  "published_at": "2026-01-15T00:00:00.000Z",
+  "source": "sap-community",
+  "url_referencia": "https://www.sap.com/products/artificial-intelligence/joule-studio.html",
+  "fecha": "2026-01-15",
+  "titulo": "Joule Studio: plataforma para construir agentes y habilidades de IA empresariales",
+  "resumen": "Joule Studio es la plataforma integrada en SAP Build que permite a empresas y socios diseñar agentes y habilidades Joule personalizados usando el conocimiento empresarial y los servicios de IA de SAP. El Agent Builder alcanzó disponibilidad general en Q1 2026. SAP Build customers pueden ejecutar agentes Joule personalizados sin coste hasta mayo de 2026.",
+  "contenido": "Joule Studio es la plataforma de desarrollo de agentes y habilidades de IA de SAP, disponible dentro de SAP Build. Permite a las empresas crear soluciones de IA personalizadas aprovechando el conocimiento empresarial integrado y los servicios de IA de SAP.\n\nLa plataforma incluye dos constructores principales:\n\n**Skill Builder** (GA desde julio 2025): permite crear habilidades de Joule personalizadas, que son capacidades específicas que el asistente puede ejecutar en sistemas SAP y de terceros.\n\n**Agent Builder** (GA desde diciembre 2025 / Q1 2026): permite diseñar agentes autónomos que pueden orquestar múltiples habilidades para completar objetivos complejos de múltiples pasos. Los agentes construidos con Agent Builder pueden integrarse con sistemas SAP a través de APIs y eventos.\n\nSAP Build customers pueden ejecutar agentes Joule personalizados sin coste adicional hasta el 31 de mayo de 2026 como oferta promocional. Joule Studio está disponible globalmente con soporte para los 13 idiomas en los que Joule opera actualmente.\n\n[Leer artículo completo](https://www.sap.com/products/artificial-intelligence/joule-studio.html)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule-studio", "agentes", "habilidades", "build", "no-code"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "herramienta"
+}

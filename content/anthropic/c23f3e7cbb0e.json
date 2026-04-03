@@ -1,0 +1,18 @@
+{
+  "id": "c23f3e7cbb0e",
+  "slug": "2026-01-claude-code-agente-ia-terminal-ide",
+  "status": "published",
+  "published_at": "2026-01-15T00:00:00.000Z",
+  "source": "anthropic-news",
+  "url_referencia": "https://code.claude.com/docs/en/overview",
+  "fecha": "2026-01-15",
+  "titulo": "Claude Code: el agente de programación de Anthropic para terminal e IDE",
+  "resumen": "Claude Code es el agente de programación de Anthropic diseñado para operar directamente en el terminal y en IDEs, con capacidad de leer y escribir archivos, ejecutar comandos, buscar en codebases y crear commits de Git. En 2026, incorpora subagentes con nombres en menciones @, renderizado alt-screen sin parpadeo, soporte para Windows con PowerShell, y el Analytics API para métricas de uso organizacional.",
+  "contenido": "Claude Code es el agente de programación autónomo de Anthropic, disponible como herramienta de CLI y extensión de IDE. A diferencia de los asistentes de código tradicionales, Claude Code puede operar de forma autónoma en el sistema de archivos, ejecutar comandos, interactuar con herramientas de desarrollo y completar tareas complejas de programación de múltiples pasos.\n\nCapacidades principales:\n- **Operación en terminal**: lectura y escritura de archivos, ejecución de comandos de shell, gestión de procesos\n- **Integración con Git**: creación de commits, gestión de branches, revisión de diffs\n- **Soporte MCP**: conexión a servidores MCP para acceso a herramientas externas, con persistencia de resultados hasta 500K caracteres mediante anotaciones _meta\n- **Subagentes nombrados**: mención de subagentes especializados con @ en el flujo de trabajo\n\nNovedades de 2026:\n- **Windows + PowerShell**: soporte nativo para Windows con herramienta PowerShell como opt-in preview\n- **Renderizado alt-screen sin parpadeo**: mejora de UX en terminal\n- **Claude Code Analytics API**: acceso programático a métricas de uso diarias agregadas, incluyendo métricas de productividad, estadísticas de uso de herramientas y datos de costes para organizaciones\n- **Lecciones /powerup**: tutoriales interactivos para usuarios nuevos\n\n[Leer artículo completo](https://code.claude.com/docs/en/overview)",
+  "categoria": "Herramientas",
+  "tags": ["anthropic", "claude-code", "programacion", "agente", "terminal", "ide", "mcp"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "anthropic",
+  "tipo": "herramienta"
+}

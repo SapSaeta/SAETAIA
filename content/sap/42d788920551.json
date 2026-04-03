@@ -1,0 +1,18 @@
+{
+  "id": "42d788920551",
+  "slug": "2026-01-joule-studio-agent-builder-disponibilidad-general",
+  "status": "published",
+  "published_at": "2026-01-08T00:00:00.000Z",
+  "source": "sap-community",
+  "url_referencia": "https://www.sap.com/products/artificial-intelligence/joule-studio-agent-builder.html",
+  "fecha": "2026-01-08",
+  "titulo": "Agent Builder en Joule Studio: construye tus propios agentes Joule hoy",
+  "resumen": "El Agent Builder en Joule Studio alcanzó disponibilidad general, permitiendo a empresas y socios diseñar agentes Joule autónomos que pueden orquestar múltiples habilidades para completar objetivos empresariales complejos. Los agentes pueden conectarse a sistemas SAP y de terceros a través de APIs y eventos, con el conocimiento empresarial de SAP como base.",
+  "contenido": "El Agent Builder en Joule Studio es la herramienta de no-código/bajo-código de SAP para crear agentes de IA empresariales personalizados. Construyendo sobre el Skill Builder disponible desde julio 2025, el Agent Builder alcanzó disponibilidad general en Q1 2026.\n\nCapacidades principales del Agent Builder:\n- **Diseño visual de agentes**: interfaz gráfica para definir el comportamiento, las habilidades y los flujos de trabajo del agente\n- **Orquestación multi-habilidad**: los agentes pueden combinar múltiples habilidades de Joule para completar tareas complejas\n- **Integración SAP nativa**: acceso directo a datos y procesos de SAP S/4HANA, SAP BTP y otras soluciones SAP\n- **Extensibilidad**: posibilidad de crear habilidades personalizadas usando SAP Cloud Application Programming Model (CAP)\n- **Monitoreo y trazabilidad**: seguimiento completo de la ejecución de los agentes para auditoría y depuración\n\nLos agentes construidos con Agent Builder se benefician del conocimiento empresarial integrado de SAP y se ejecutan en la infraestructura segura de SAP BTP. El programa de partner-driven innovation permite a los socios SAP crear y distribuir agentes Joule para sus soluciones.\n\n[Leer artículo completo](https://www.sap.com/products/artificial-intelligence/joule-studio-agent-builder.html)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule-studio", "agent-builder", "agentes", "no-code", "btp"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "herramienta"
+}

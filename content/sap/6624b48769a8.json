@@ -1,0 +1,18 @@
+{
+  "id": "6624b48769a8",
+  "slug": "2026-03-roadmap-joule-desarrolladores-abap-ia",
+  "status": "published",
+  "published_at": "2026-03-15T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://community.sap.com/t5/technology-blog-posts-by-sap/our-2026-roadmap-for-joule-for-developers-abap-ai-capabilities/ba-p/14360358",
+  "fecha": "2026-03-15",
+  "titulo": "Roadmap 2026 de Joule para desarrolladores: IA agéntica para ABAP",
+  "resumen": "SAP publicó su roadmap 2026 para Joule para Desarrolladores y las capacidades de IA de ABAP, anunciando la transición del set de habilidades independientes a una IA Agéntica completa. Las novedades incluyen ABAP MCP Server para herramientas de desarrollo ABAP en VS Code y la extensión del período gratuito de Joule para Desarrolladores hasta septiembre de 2026.",
+  "contenido": "SAP presentó en la comunidad de desarrolladores el roadmap 2026 para Joule para Desarrolladores y las capacidades de IA ABAP. El mayor cambio es la transición de un conjunto de habilidades de IA independientes (que explican, completan o generan código como RAP, CDS y Tests) a una IA Agéntica completa que actúa como colaborador autónomo.\n\nLa IA Agéntica en el contexto de ABAP puede planificar, decidir y actuar de forma autónoma para lograr objetivos definidos, razonar sobre el contexto, invocar herramientas, interactuar con sistemas y ejecutar flujos de trabajo de múltiples pasos con mínima intervención humana.\n\nEntre los hitos del roadmap hasta Q2/2026 destaca el ABAP MCP Server, que integra las herramientas de desarrollo ABAP en Visual Studio Code con soporte del protocolo MCP, creando una experiencia de desarrollo más fluida y potente.\n\nSAP también extendió el período gratuito de Joule para Desarrolladores hasta septiembre de 2026, permitiendo a más desarrolladores experimentar con las capacidades de IA generativa en su trabajo ABAP diario.\n\n[Leer artículo completo](https://community.sap.com/t5/technology-blog-posts-by-sap/our-2026-roadmap-for-joule-for-developers-abap-ai-capabilities/ba-p/14360358)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "joule", "abap", "desarrolladores", "btp", "mcp", "vscode"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

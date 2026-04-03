@@ -1,0 +1,18 @@
+{
+  "id": "fafcc4831d0e",
+  "slug": "2026-01-comercio-agentivo-sap",
+  "status": "published",
+  "published_at": "2026-01-14T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/01/for-retailers-agentic-commerce-is-here/",
+  "fecha": "2026-01-14",
+  "titulo": "Para los minoristas, el comercio agéntico ya está aquí",
+  "resumen": "SAP anunció en NRF 2026 el servidor MCP para storefronts, que permite a los minoristas hacer sus tiendas digitales inteligibles para agentes de IA como ChatGPT o Perplexity. Esta capacidad habilita el comercio sin canales donde el descubrimiento, la transacción y el soporte post-venta ocurren fluidamente a través de asistentes de IA humanos y automatizados.",
+  "contenido": "SAP presentó en NRF 2026 su visión del comercio agéntico, donde los agentes de IA pueden actuar como intermediarios para el descubrimiento y la compra de productos en nombre de los consumidores.\n\nLa pieza clave es el nuevo servidor MCP (Model Context Protocol) para storefronts, que permite a los minoristas hacer sus tiendas digitales inteligibles para agentes de IA de terceros como ChatGPT, Perplexity u otros asistentes. El servidor MCP puede habilitar el comercio sin canal, permitiendo a las empresas interactuar de forma segura y fiable con múltiples agentes de IA, tanto los integrados en las experiencias propias del minorista como los provenientes de asistentes de terceros.\n\nAdemás, SAP Customer Experience presentó un Digital Service Agent que puede combinarse con el Shopping Agent, creando una IA conversacional que gestiona todo el recorrido del cliente, desde el descubrimiento del producto y la transacción hasta el soporte posventa. El servidor MCP para storefronts está planificado para disponibilidad en Q2 2026.\n\n[Leer artículo completo](https://news.sap.com/2026/01/for-retailers-agentic-commerce-is-here/)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "comercio-agentivo", "mcp", "retail", "joule", "ecommerce"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

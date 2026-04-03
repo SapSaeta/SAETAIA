@@ -1,0 +1,18 @@
+{
+  "id": "b27c9c4fea14",
+  "slug": "2026-01-sap-ai-foundation-os-plataforma-ia",
+  "status": "published",
+  "published_at": "2026-01-10T00:00:00.000Z",
+  "source": "sap-community",
+  "url_referencia": "https://www.sap.com/products/artificial-intelligence/ai-foundation-os.html",
+  "fecha": "2026-01-10",
+  "titulo": "SAP AI Foundation: el sistema operativo de IA todo-en-uno para desarrolladores",
+  "resumen": "SAP AI Foundation es la plataforma unificada de IA de SAP BTP que actúa como sistema operativo de IA para todas las soluciones SAP Business AI. Permite desarrollar, desplegar y gestionar funciones y agentes de IA a escala, incorporando más de 350 características de IA, los modelos fundacionales más recientes de múltiples proveedores (OpenAI, Anthropic, Google, Mistral) y soporte para el desarrollo agéntico con Joule Agents.",
+  "contenido": "SAP AI Foundation es el kit de herramientas de IA todo-en-uno de SAP, diseñado para que los desarrolladores accedan a IA lista para usar, personalizable, fundamentada en datos empresariales y respaldada por los principales modelos fundacionales de IA generativa.\n\nLa plataforma sirve como sistema operativo de IA completo para todas las soluciones SAP Business AI, proporcionando un entorno unificado para desarrollar, desplegar y gestionar funciones y agentes de IA a escala empresarial.\n\nCaracterísticas principales:\n- **Hub de IA Generativa**: acceso a los modelos fundacionales más recientes de OpenAI, Anthropic (Claude 4.5 Sonnet y Haiku), Google (Gemini 2.5 Flash Lite), Mistral, Cohere, Perplexity y más\n- **SAP-RPT-1**: el motor de IA universal de SAP para datos empresariales relacionales, capaz de manejar virtualmente cualquier tarea predictiva\n- **SAP EU AI Cloud**: oferta de nube soberana de pila completa con residencia y soberanía total de datos en la UE\n- **Joule Agents**: marco para crear y desplegar agentes de IA con más de 2.400 habilidades integradas\n- **AI Core y AI Launchpad**: servicios de infraestructura para entrenamiento y despliegue de modelos\n\n[Leer artículo completo](https://www.sap.com/products/artificial-intelligence/ai-foundation-os.html)",
+  "categoria": "Herramientas",
+  "tags": ["sap", "ai-foundation", "btp", "plataforma", "llm", "agentes"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "herramienta"
+}

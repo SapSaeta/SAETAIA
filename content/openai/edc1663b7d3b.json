@@ -1,0 +1,18 @@
+{
+  "id": "edc1663b7d3b",
+  "slug": "2026-02-sora-2-generacion-video-ia",
+  "status": "published",
+  "published_at": "2026-02-01T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/sora-2/",
+  "fecha": "2026-02-01",
+  "titulo": "Sora 2: generación de video más realista con diálogo sincronizado",
+  "resumen": "OpenAI lanzó Sora 2 con mayor precisión física, realismo y control que sus sistemas anteriores. El modelo incorpora diálogo y efectos de sonido sincronizados, puede insertar personas en entornos generados con representación precisa de apariencia y voz, y permite animar imágenes estáticas con alta fidelidad. OpenAI anunció en marzo de 2026 el cierre de la app Sora para el 26 de abril de 2026.",
+  "contenido": "Sora 2 fue presentado por OpenAI como un sistema de generación de video significativamente más avanzado que su predecesor. El modelo es más preciso físicamente, más realista y más controlable, con soporte para diálogo sincronizado y efectos de sonido.\n\nEntre sus capacidades destacan: seguir instrucciones complejas que abarcan múltiples tomas manteniendo el estado del mundo con precisión, excelen en estilos realistas, cinematográficos y anime, e insertar personas en entornos generados con representación fiel de apariencia y voz. El modelo puede animar imágenes estáticas con atención al detalle.\n\nEl 11 de diciembre de 2025, The Walt Disney Company anunció una inversión de $1.000 millones en OpenAI para permitir a los usuarios generar más de 200 personajes con copyright en Sora 2. Sin embargo, el 24 de marzo de 2026, OpenAI anunció que cerraría la aplicación Sora el 26 de abril de 2026, con la API funcionando hasta el 24 de septiembre de 2026.\n\n[Leer artículo completo](https://openai.com/index/sora-2/)",
+  "categoria": "Herramientas",
+  "tags": ["openai", "sora", "video", "generacion", "multimodal"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

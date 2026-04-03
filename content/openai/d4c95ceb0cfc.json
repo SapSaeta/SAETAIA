@@ -1,0 +1,18 @@
+{
+  "id": "d4c95ceb0cfc",
+  "slug": "2026-02-gpt-image-1-api-generacion-imagenes",
+  "status": "published",
+  "published_at": "2026-02-20T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/image-generation-api/",
+  "fecha": "2026-02-20",
+  "titulo": "gpt-image-1: nuevo modelo de generación de imágenes disponible en la API",
+  "resumen": "OpenAI lanzó gpt-image-1, su modelo de generación de imágenes nativo multimodal que comprende texto e imágenes y aprovecha su amplio conocimiento del mundo para generación con mejor seguimiento de instrucciones. El modelo es la base para la API de Imágenes, disponible globalmente y con soporte en la Responses API. DALL-E 2 y 3 quedan deprecados el 12 de mayo de 2026.",
+  "contenido": "OpenAI presentó gpt-image-1, un modelo de generación de imágenes de última generación basado en una arquitectura multimodal nativa. A diferencia de DALL-E, gpt-image-1 comprende tanto texto como imágenes y aprovecha el amplio conocimiento del mundo del modelo para generar imágenes con mejor seguimiento de instrucciones y mayor conciencia contextual.\n\nEl modelo está disponible a través de la Images API globalmente, con soporte también en la Responses API como herramienta integrada para flujos de trabajo agénticos. Admite streaming en tiempo real y ediciones en múltiples turnos.\n\nPara marzo de 2026, OpenAI recomendaba gpt-image-1.5 para la mejor experiencia, con gpt-image-1-mini como opción más económica cuando la calidad no es prioritaria. El precio más económico es gpt-image-1-mini low en $0,005 por imagen de 1024x1024. DALL-E 2 y DALL-E 3 han sido marcados como deprecados con fecha de fin de soporte el 12 de mayo de 2026.\n\n[Leer artículo completo](https://openai.com/index/image-generation-api/)",
+  "categoria": "API",
+  "tags": ["openai", "gpt-image-1", "imagenes", "dall-e", "api", "multimodal"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "herramienta"
+}

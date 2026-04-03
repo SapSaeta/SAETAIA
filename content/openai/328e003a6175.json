@@ -1,0 +1,18 @@
+{
+  "id": "328e003a6175",
+  "slug": "2026-03-programa-bug-bounty-seguridad-ia",
+  "status": "published",
+  "published_at": "2026-03-25T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/safety-bug-bounty/",
+  "fecha": "2026-03-25",
+  "titulo": "OpenAI lanza programa Safety Bug Bounty con recompensas hasta $100.000",
+  "resumen": "OpenAI lanzó un programa público Safety Bug Bounty el 25 de marzo de 2026, centrado en identificar riesgos de abuso y seguridad en sus productos de IA. El programa complementa el Bug Bounty de seguridad existente, aceptando problemas que representan riesgos significativos de abuso aunque no cumplan los criterios técnicos de vulnerabilidad de seguridad. Las recompensas llegan hasta $100.000.",
+  "contenido": "OpenAI lanzó el programa Safety Bug Bounty el 25 de marzo de 2026, diseñado para identificar riesgos de abuso y seguridad específicos de la IA en sus productos. A diferencia del programa de seguridad estándar, este acepta problemas que representen riesgos de abuso significativos aunque no sean vulnerabilidades técnicas tradicionales.\n\nEl alcance cubre ataques de inyección de prompt de terceros y exfiltración de datos, acciones no permitidas realizadas por productos agénticos de OpenAI a escala, exposición de información propietaria de OpenAI, y debilidades en la integridad de cuentas y plataforma.\n\nEl programa opera en Bugcrowd y ofrece recompensas de hasta $100.000. Los jailbreaks están fuera del alcance, aunque OpenAI ejecuta periódicamente campañas privadas centradas en tipos específicos de daño. OpenAI simultáneamente publicó herramientas de código abierto para ayudar a los desarrolladores a construir experiencias seguras para menores.\n\n[Leer artículo completo](https://openai.com/index/safety-bug-bounty/)",
+  "categoria": "Seguridad",
+  "tags": ["openai", "seguridad", "bug-bounty", "safety", "ia-responsable"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

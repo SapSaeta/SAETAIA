@@ -1,0 +1,18 @@
+{
+  "id": "febd5e5f9ecb",
+  "slug": "2026-01-ia-en-2026-cinco-temas-definitorios",
+  "status": "published",
+  "published_at": "2026-01-07T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/01/ai-in-2026-five-defining-themes/",
+  "fecha": "2026-01-07",
+  "titulo": "IA en 2026: cinco temas que definirán el año según SAP",
+  "resumen": "SAP publicó su análisis de los cinco temas que definirán la IA en 2026: la transición a IA agéntica autónoma, el auge de la IA soberana en Europa, la evolución de modelos fundacionales específicos para negocios, la integración profunda de IA en ERPs y la maduración de marcos de gobernanza y responsabilidad de IA en empresas.",
+  "contenido": "SAP publicó en enero de 2026 su análisis de los cinco temas que considera más definitorios para la evolución de la inteligencia artificial durante el año:\n\n1. **IA Agéntica**: la transición de chatbots básicos a sistemas de IA que planifican, deciden y actúan de forma autónoma para lograr objetivos definidos. A diferencia de la IA tradicional, la IA agéntica puede razonar sobre el contexto, invocar herramientas, interactuar con sistemas y ejecutar flujos de trabajo de múltiples pasos con mínima intervención humana.\n\n2. **Soberanía de Datos**: el auge de la IA soberana en Europa con iniciativas como SAP EU AI Cloud, la oferta de nube soberana de pila completa con plena residencia y soberanía de datos en la UE.\n\n3. **Modelos específicos para negocios**: evolución de modelos fundacionales adaptados a datos y procesos empresariales, como SAP-RPT-1, el motor de IA universal de SAP para datos empresariales relacionales.\n\n4. **IA integrada en ERP**: la integración profunda de capacidades de IA en los sistemas core de gestión empresarial como S/4HANA.\n\n5. **Gobernanza de IA**: maduración de marcos de responsabilidad, transparencia y cumplimiento normativo de IA en empresas globales.\n\n[Leer artículo completo](https://news.sap.com/2026/01/ai-in-2026-five-defining-themes/)",
+  "categoria": "Investigación",
+  "tags": ["sap", "ia", "tendencias", "agentismo", "gobernanza", "2026"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bf92f3d905c3",
+  "slug": "2025-04-introduciendo-o3-y-o4-mini",
+  "status": "published",
+  "published_at": "2025-04-16T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/introducing-o3-and-o4-mini/",
+  "fecha": "2025-04-16",
+  "titulo": "Introduciendo OpenAI o3 y o4-mini",
+  "resumen": "OpenAI lanzó o3 y o4-mini, sus modelos de razonamiento más avanzados de la serie o. o4-mini está optimizado para tareas de velocidad y eficiencia en matemáticas, programación y visión, mientras que o3 ofrece capacidades de razonamiento profundo de última generación. Ambos modelos pueden usar herramientas y funciones directamente en su cadena de pensamiento a través de la Responses API.",
+  "contenido": "OpenAI lanzó o3 y o4-mini como los últimos modelos de la serie o, entrenados para pensar más tiempo antes de responder. o4-mini es el primer modelo o4, más pequeño y optimizado para razonamiento rápido y eficiente en coste, con rendimiento destacado en matemáticas, programación y tareas visuales. o3 representa un salto en capacidades de razonamiento profundo.\n\nAmbos modelos están disponibles para usuarios de ChatGPT Plus, Pro y Teams en el selector de modelos, reemplazando a o1, o3-mini y o3-mini-high. Los desarrolladores pueden acceder a ellos a través de la Chat Completions API y la Responses API.\n\nUna característica clave es que o3 y o4-mini pueden llamar herramientas y funciones directamente dentro de su cadena de pensamiento en la Responses API, produciendo respuestas más contextualmente ricas mientras preservan tokens de razonamiento entre llamadas.\n\n[Leer artículo completo](https://openai.com/index/introducing-o3-and-o4-mini/)",
+  "categoria": "LLMs",
+  "tags": ["openai", "o3", "o4-mini", "razonamiento", "modelos"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

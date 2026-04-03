@@ -1,0 +1,18 @@
+{
+  "id": "5cb27984e401",
+  "slug": "2026-01-introduciendo-gpt-5",
+  "status": "published",
+  "published_at": "2026-01-15T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/introducing-gpt-5/",
+  "fecha": "2026-01-15",
+  "titulo": "Introduciendo GPT-5: el mejor sistema de IA de OpenAI",
+  "resumen": "OpenAI presentó GPT-5, describiendo un salto significativo en inteligencia sobre todos sus modelos anteriores, con rendimiento puntero en programación, matemáticas, escritura, salud y percepción visual. GPT-5 está disponible para todos los usuarios de ChatGPT, con acceso ampliado para suscriptores Plus y Pro, quienes obtienen GPT-5 pro con razonamiento extendido.",
+  "contenido": "OpenAI introdujo GPT-5 como su mejor sistema de IA hasta la fecha, representando un salto sustancial en inteligencia frente a todos sus modelos anteriores. El modelo destaca con rendimiento de última generación en programación, matemáticas, escritura, salud, percepción visual y más.\n\nGPT-5 está disponible para todos los usuarios de ChatGPT. Los suscriptores Plus obtienen mayor uso del modelo, mientras que los suscriptores Pro tienen acceso a GPT-5 pro, una versión con razonamiento extendido diseñada para respuestas más completas y precisas.\n\nEl modelo incorpora capacidades agénticas mejoradas, permitiendo ejecutar tareas de múltiples pasos de forma más autónoma. GPT-5 también mejora significativamente el seguimiento de instrucciones, la coherencia en conversaciones largas y la capacidad de razonamiento en contextos complejos.\n\n[Leer artículo completo](https://openai.com/index/introducing-gpt-5/)",
+  "categoria": "LLMs",
+  "tags": ["openai", "gpt-5", "modelo", "chatgpt", "ia"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

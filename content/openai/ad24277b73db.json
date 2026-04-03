@@ -1,0 +1,18 @@
+{
+  "id": "ad24277b73db",
+  "slug": "2026-01-proyecto-stargate-infraestructura-ia",
+  "status": "published",
+  "published_at": "2026-01-21T00:00:00.000Z",
+  "source": "openai-news",
+  "url_referencia": "https://openai.com/index/announcing-the-stargate-project/",
+  "fecha": "2026-01-21",
+  "titulo": "Proyecto Stargate: inversión de $500B en infraestructura de IA en EE.UU.",
+  "resumen": "OpenAI anunció Stargate, una nueva empresa con SoftBank, Oracle y MGX que invertirá 500.000 millones de dólares durante cuatro años para construir infraestructura de IA en Estados Unidos. A inicios de 2026, el proyecto ha alcanzado casi 7 gigavatios de capacidad planificada y más de $400B en inversión comprometida, con expansión internacional a través de 'OpenAI for Countries'.",
+  "contenido": "El Proyecto Stargate es una nueva empresa constituida por SoftBank, OpenAI, Oracle y MGX con el objetivo de invertir 500.000 millones de dólares en cuatro años para construir infraestructura de IA nueva en Estados Unidos. SoftBank y OpenAI son los socios líderes, con SoftBank asumiendo responsabilidad financiera y OpenAI la operativa.\n\nA principios de 2026, el proyecto avanza con casi 7 gigavatios de capacidad planificada y más de $400B en inversión comprometida. Destaca Stargate Michigan, un campus de 1 GW y $7B en el condado de Saline, cuya construcción comenzó a principios de 2026 con más de 2.500 empleos.\n\nEn el plano internacional, OpenAI anunció 'Stargate UAE', un centro de datos de 1 GW en Abu Dabi, y la iniciativa 'OpenAI for Countries' con 10 proyectos Stargate globales con gobiernos nacionales como co-inversores. La capacidad de estos cinco nuevos sitios más el sitio insignia en Abilene, Texas, y proyectos con CoreWeave sitúa a Stargate como la mayor iniciativa de infraestructura de IA de la historia.\n\n[Leer artículo completo](https://openai.com/index/announcing-the-stargate-project/)",
+  "categoria": "Empresa",
+  "tags": ["openai", "stargate", "infraestructura", "inversion", "datacenter"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "openai",
+  "tipo": "noticia"
+}

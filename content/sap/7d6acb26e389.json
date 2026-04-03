@@ -1,0 +1,18 @@
+{
+  "id": "7d6acb26e389",
+  "slug": "2026-01-nrf-2026-sap-ia-nucleo-retail",
+  "status": "published",
+  "published_at": "2026-01-13T00:00:00.000Z",
+  "source": "sap-news",
+  "url_referencia": "https://news.sap.com/2026/01/nrf-2026-sap-builds-ai-retail-core/",
+  "fecha": "2026-01-13",
+  "titulo": "NRF 2026: SAP integra la IA en el núcleo del retail",
+  "resumen": "En el NRF 2026 (National Retail Federation), SAP presentó una nueva generación de capacidades de IA mejoradas para retail, posicionando la IA como capa fundacional en planificación, operaciones, comercio y fulfillment. Las novedades incluyen Retail Intelligence en SAP Business Data Cloud, gestión de surtido asistida por IA a través de Joule, y un Order Reliability Agent para Q2 2026.",
+  "contenido": "SAP presentó en el NRF 2026 (National Retail Federation Big Show) una nueva generación de innovaciones de retail mejoradas con IA, posicionando la inteligencia artificial como una capa operativa central en todos los procesos del sector.\n\nEntre las principales novedades se encuentran:\n\n**Retail Intelligence**: la solución en SAP Business Data Cloud proporciona planificación precisa de demanda e inventario, aprovechando datos de SAP y sistemas de terceros. Disponible en general en la primera mitad de 2026, usa simulaciones generadas por IA para que los planificadores anticipen resultados y optimicen inventarios.\n\n**Gestión de surtido asistida por IA**: los planificadores pueden crear, modificar o retirar surtidos usando lenguaje natural a través del copiloto Joule, reduciendo dependencia de usuarios expertos y acelerando respuestas a cambios del mercado.\n\n**Order Reliability Agent**: anunciado como parte del bundle SAP Order Management Services para Q2 2026, este agente identifica y resuelve proactivamente problemas potenciales de pedidos antes de que afecten a los clientes.\n\n[Leer artículo completo](https://news.sap.com/2026/01/nrf-2026-sap-builds-ai-retail-core/)",
+  "categoria": "Empresa",
+  "tags": ["sap", "retail", "joule", "nrf", "ia", "btp"],
+  "imagen": null,
+  "ingested_at": "2026-04-03T00:00:00.000Z",
+  "brand": "sap",
+  "tipo": "noticia"
+}
