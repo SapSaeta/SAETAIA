@@ -68,7 +68,7 @@ export default function SapIaSlugPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <div className="mx-auto max-w-2xl space-y-8">
-        <BackButton />
+        <BackButton href="/sap-ia" label="Volver a SAP IA" />
         <NoticiaHeader noticia={noticia} />
         <NoticiaContent contenido={noticia.contenido} />
         {noticia.url_referencia && (
@@ -78,7 +78,7 @@ export default function SapIaSlugPage({ params }: PageProps) {
           </div>
         )}
         <div className="border-t border-zinc-800 pt-6">
-          <BackButton />
+          <BackButton href="/sap-ia" label="Volver a SAP IA" />
         </div>
       </div>
     </Container>

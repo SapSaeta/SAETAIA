@@ -26,6 +26,7 @@ export const metadata: Metadata = {
 const CONFIG: BrandConfig = {
   brand: 'anthropic',
   nombre: 'Anthropic',
+  href: '/anthropic',
   descripcion:
     'Seguimiento de las últimas noticias, modelos y herramientas de Anthropic. Desde Claude hasta la API y los avances en IA segura.',
   glowClass: 'bg-violet-200',

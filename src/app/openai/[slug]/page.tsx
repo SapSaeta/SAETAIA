@@ -68,7 +68,7 @@ export default function OpenAISlugPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <div className="mx-auto max-w-2xl space-y-8">
-        <BackButton />
+        <BackButton href="/openai" label="Volver a OpenAI" />
         <NoticiaHeader noticia={noticia} />
         <NoticiaContent contenido={noticia.contenido} />
         {noticia.url_referencia && (
@@ -78,7 +78,7 @@ export default function OpenAISlugPage({ params }: PageProps) {
           </div>
         )}
         <div className="border-t border-zinc-800 pt-6">
-          <BackButton />
+          <BackButton href="/openai" label="Volver a OpenAI" />
         </div>
       </div>
     </Container>

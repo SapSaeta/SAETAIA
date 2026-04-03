@@ -26,6 +26,7 @@ export const metadata: Metadata = {
 const CONFIG: BrandConfig = {
   brand: 'openai',
   nombre: 'OpenAI',
+  href: '/openai',
   descripcion:
     'Cobertura completa de OpenAI: desde los modelos GPT y o1 hasta ChatGPT, la API, DALL·E y los avances en investigación de IA generativa.',
   glowClass: 'bg-blue-200',

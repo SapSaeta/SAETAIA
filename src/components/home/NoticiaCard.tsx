@@ -10,13 +10,15 @@ import NoticiaImage from '@/components/ui/NoticiaImage'
 
 interface NoticiaCardProps {
   noticia: Noticia
+  /** Base path for the detail link, e.g. "/anthropic", "/openai". Defaults to "/noticias" */
+  basePath?: string
 }
 
-export default function NoticiaCard({ noticia }: NoticiaCardProps) {
+export default function NoticiaCard({ noticia, basePath = '/noticias' }: NoticiaCardProps) {
   const colors = CATEGORIA_COLORS[noticia.categoria]
 
   return (
-    <Link href={`/noticias/${noticia.slug}`} className="group block h-full">
+    <Link href={`${basePath}/${noticia.slug}`} className="group block h-full">
       <motion.article
         whileHover={{ y: -2 }}
         transition={{ duration: 0.15, ease: 'easeOut' }}
@@ -50,7 +52,7 @@ export default function NoticiaCard({ noticia }: NoticiaCardProps) {
           </div>
 
           {/* Title */}
-          <h2 className="mb-2 line-clamp-2 text-base font-semibold leading-snug text-zinc-900 transition-colors group-hover:text-violet-700">
+          <h2 className="mb-2 line-clamp-2 text-base font-semibold leading-snug text-zinc-900 transition-colors group-hover:text-zinc-600">
             {noticia.titulo}
           </h2>
 

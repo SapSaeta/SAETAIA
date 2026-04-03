@@ -1,15 +1,24 @@
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getContenidoByBrand } from '@/lib/contenido'
-import { getNoticiaBySlug, getAllNoticias } from '@/lib/noticias'
+import { getAllNoticias } from '@/lib/noticias'
 import Container from '@/components/layout/Container'
 import BackButton from '@/components/noticia/BackButton'
 import NoticiaHeader from '@/components/noticia/NoticiaHeader'
 import NoticiaContent from '@/components/noticia/NoticiaContent'
 import ExternalLink from '@/components/ui/ExternalLink'
+import type { Noticia } from '@/types'
 
 interface PageProps {
   params: { slug: string }
+}
+
+function getNoticia(slug: string): Noticia | undefined {
+  // Check brand-specific content first, then fall back to legacy noticias
+  const { noticias } = getContenidoByBrand('anthropic')
+  const brandMatch = noticias.find((n) => n.slug === slug)
+  if (brandMatch) return brandMatch
+  return getAllNoticias().find((n) => n.slug === slug)
 }
 
 export async function generateStaticParams() {
@@ -24,7 +33,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const noticia = getNoticiaBySlug(params.slug)
+  const noticia = getNoticia(params.slug)
   if (!noticia) return {}
   const canonicalUrl = `https://saetaia.com/anthropic/${noticia.slug}`
   const ogImage = noticia.imagen
@@ -48,7 +57,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default function AnthropicSlugPage({ params }: PageProps) {
-  const noticia = getNoticiaBySlug(params.slug)
+  const noticia = getNoticia(params.slug)
   if (!noticia) notFound()
 
   const jsonLd = {
@@ -69,7 +78,7 @@ export default function AnthropicSlugPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <div className="mx-auto max-w-2xl space-y-8">
-        <BackButton />
+        <BackButton href="/anthropic" label="Volver a Anthropic" />
         <NoticiaHeader noticia={noticia} />
         <NoticiaContent contenido={noticia.contenido} />
         {noticia.url_referencia && (
@@ -79,7 +88,7 @@ export default function AnthropicSlugPage({ params }: PageProps) {
           </div>
         )}
         <div className="border-t border-zinc-800 pt-6">
-          <BackButton />
+          <BackButton href="/anthropic" label="Volver a Anthropic" />
         </div>
       </div>
     </Container>

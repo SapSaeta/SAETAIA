@@ -26,6 +26,7 @@ export const metadata: Metadata = {
 const CONFIG: BrandConfig = {
   brand: 'sap',
   nombre: 'SAP IA',
+  href: '/sap-ia',
   descripcion:
     'Todo lo que debes saber sobre la inteligencia artificial de SAP: Joule, SAP Business AI, integraciones con modelos de lenguaje y automatización empresarial.',
   glowClass: 'bg-emerald-200',
