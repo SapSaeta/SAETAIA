@@ -1,6 +1,7 @@
 import type { Categoria } from '@/types'
-import type { RawItem, ContentEntry, SourceId } from '@/types/ingest'
+import type { RawItem, ContentEntry, SourceId, Brand, ContentTipo } from '@/types/ingest'
 import { createHash } from 'crypto'
+import { classifyBrand, detectTipo } from '@/lib/relevance'
 
 // ─── Asignación de categorías ────────────────────────────────────────────────
 
@@ -16,7 +17,7 @@ const CATEGORY_RULES: Array<{ pattern: RegExp; categoria: Categoria }> = [
   // LLMs
   { pattern: /claude|model|llm|gpt|language model|opus|sonnet|haiku|token|context|fine.?tun/i, categoria: 'LLMs' },
   // Empresa como fallback
-  { pattern: /anthropic|company|fund|partner|team|announce|invest|valuat/i, categoria: 'Empresa' },
+  { pattern: /anthropic|openai|sap|company|fund|partner|team|announce|invest|valuat/i, categoria: 'Empresa' },
 ]
 
 function assignCategoria(raw: RawItem): Categoria {
@@ -27,6 +28,8 @@ function assignCategoria(raw: RawItem): Categoria {
   // Fallback por fuente
   if (raw.source === 'anthropic-research') return 'Investigación'
   if (raw.source === 'github-sdk-python' || raw.source === 'github-claude-code') return 'API'
+  if (raw.source === 'openai-github') return 'API'
+  if (raw.source === 'openai-research') return 'Investigación'
   return 'Empresa'
 }
 
@@ -58,11 +61,16 @@ function generateId(url: string): string {
 
 // ─── Tags ────────────────────────────────────────────────────────────────────
 
-const SOURCE_TAGS: Record<SourceId, string[]> = {
-  'anthropic-news': ['anthropic', 'news'],
+const SOURCE_TAGS: Partial<Record<SourceId, string[]>> = {
+  'anthropic-news':     ['anthropic', 'news'],
   'anthropic-research': ['anthropic', 'research', 'paper'],
-  'github-sdk-python': ['sdk', 'python', 'api', 'release'],
+  'github-sdk-python':  ['sdk', 'python', 'api', 'release'],
   'github-claude-code': ['claude-code', 'cli', 'release'],
+  'openai-news':        ['openai', 'news'],
+  'openai-research':    ['openai', 'research'],
+  'openai-github':      ['openai', 'sdk', 'release'],
+  'sap-news':           ['sap', 'news'],
+  'sap-community':      ['sap', 'community', 'blog'],
 }
 
 function buildTags(raw: RawItem, categoria: Categoria): string[] {
@@ -102,12 +110,27 @@ function buildContenido(raw: RawItem): string {
   return `${resumen}\n\n[Leer artículo completo](${raw.url})`
 }
 
+// ─── Brand por fuente (backward compat) ──────────────────────────────────────
+
+/** Para fuentes Anthropic, brand es siempre 'anthropic'; el resto se clasifica dinámicamente */
+const ANTHROPIC_SOURCES: SourceId[] = ['anthropic-news', 'anthropic-research', 'github-sdk-python', 'github-claude-code']
+
+function resolveBrand(raw: RawItem): Brand {
+  if (ANTHROPIC_SOURCES.includes(raw.source)) return 'anthropic'
+  // Para fuentes SAP, brand por defecto es 'sap'
+  if (raw.source === 'sap-news' || raw.source === 'sap-community') return 'sap'
+  // Clasificación dinámica para el resto
+  return classifyBrand(raw)
+}
+
 // ─── Normalización principal ─────────────────────────────────────────────────
 
 export function normalize(raw: RawItem): ContentEntry {
   const categoria = assignCategoria(raw)
   const slug = generateSlug(raw.title, raw.date)
   const resumen = buildResumen(raw)
+  const brand: Brand = resolveBrand(raw)
+  const tipo: ContentTipo = detectTipo(raw)
 
   return {
     id: generateId(raw.url),
@@ -124,5 +147,7 @@ export function normalize(raw: RawItem): ContentEntry {
     tags: buildTags(raw, categoria),
     imagen: raw.imagen,
     ingested_at: new Date().toISOString(),
+    brand,
+    tipo,
   }
 }

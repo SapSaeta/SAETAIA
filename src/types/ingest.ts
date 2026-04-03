@@ -2,11 +2,20 @@ import type { Categoria } from './index'
 
 export type IngestStatus = 'draft' | 'published' | 'rejected'
 
+export type Brand = 'anthropic' | 'sap' | 'openai' | 'general'
+
+export type ContentTipo = 'noticia' | 'herramienta'
+
 export type SourceId =
   | 'anthropic-news'
   | 'anthropic-research'
   | 'github-sdk-python'
   | 'github-claude-code'
+  | 'openai-news'
+  | 'openai-research'
+  | 'sap-news'
+  | 'sap-community'
+  | 'openai-github'
 
 /** Item crudo tal como llega de la fuente, sin normalizar */
 export interface RawItem {
@@ -20,7 +29,7 @@ export interface RawItem {
   imagen?: string    // og:image URL
 }
 
-/** Entrada almacenada en content/noticias/{slug}.json */
+/** Entrada almacenada en content/noticias/{slug}.json o content/{brand}/{slug}.json */
 export interface ContentEntry {
   id: string
   slug: string
@@ -36,6 +45,8 @@ export interface ContentEntry {
   imagen?: string         // og:image URL de la fuente
   ingested_at: string     // ISO datetime
   published_at?: string   // ISO datetime
+  brand?: Brand           // default: 'anthropic'
+  tipo?: ContentTipo      // default: 'noticia'
 }
 
 /** Resultado de una fuente en una ejecución */
